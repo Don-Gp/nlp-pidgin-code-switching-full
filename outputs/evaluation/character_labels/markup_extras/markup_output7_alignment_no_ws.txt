@@ -1,0 +1,1530 @@
+CHARACTER LABELING ALIGNMENT (NO WHITESPACE) FOR markup_output7
+================================================================================
+
+Legend: E = English, P = Pidgin, _ = Unlabeled
+
+Line 1:
+Text:   |Idolnarrowedthefieldofhopefulsto16March1bouncingtwowomenandtwomen|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=65, Pidgin=0, Unlabeled=0
+
+Line 2:
+Text:   |Just100nairacondomwouldhavehelped|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=33, Pidgin=0, Unlabeled=0
+
+Line 3:
+Text:   |WowAnambraisbeingislamized.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=27, Pidgin=0, Unlabeled=0
+
+Line 4:
+Text:   |-Isnttheprofsupposedtobetuckingyouintobednow|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=44, Pidgin=0, Unlabeled=0
+
+Line 5:
+Text:   |toABCNewsinterviewerDianneSawyerthe25yearoldcostarofTVsTheSimpleLifesaidsheisalmostfourmonthsalonginherpregnancy|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=112, Pidgin=0, Unlabeled=0
+
+Line 6:
+Text:   |PleasewipeNdibgotearsbygivingthemthepresidency.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=47, Pidgin=0, Unlabeled=0
+
+Line 7:
+Text:   |Howmangofitshitinsideroomweygetcarpet,nottotalkofpolishwood?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=60, Unlabeled=0
+
+Line 8:
+Text:   |VideoshowasChellesquatanddembeginpouramwaterforheadaftadilossimemotionalreactionlaterbecomeoneofdihighlightsofAfcon2023.staterunmediasaysthefirstmeetingtookplaceafterMrChavezarrivedFridaynight|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=77, Pidgin=115, Unlabeled=0
+
+Line 9:
+Text:   |...HesawNancybuttintoherandJaguascreamed.|
+Labels: |EEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=17, Pidgin=24, Unlabeled=0
+
+Line 10:
+Text:   |-Youpeople,yougetstrongmind|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=27, Unlabeled=0
+
+Line 11:
+Text:   |IcomefromLagostoknowdehomeofFreddieNamme.innorthwestPakistansaysuspectedTalibanmilitantshaveblownupaprimaryschoolthateducatedgirls|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=104, Pidgin=26, Unlabeled=0
+
+Line 12:
+Text:   |Howmamabetoday?|
+Labels: |PPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=15, Unlabeled=0
+
+Line 13:
+Text:   |Younosabibookbutyousabiplentythingweypassbook,mydeargirl.Wasteofeffort|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=70, Unlabeled=0
+
+Line 14:
+Text:   |Imhandnacklikeviceformywristasedeyworryam-Philoshruggedandlaughed|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=21, Pidgin=44, Unlabeled=0
+
+Line 15:
+Text:   |Ifyoucomeassoonasyouclose,hesaid,youcanstayinmyguest-roomwitheverythingcompletebedroom,parlour,bathroom,latrine,everythingself-contained.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=137, Unlabeled=0
+
+Line 16:
+Text:   |Esupposeleadseveraleventsovadiweekendfordi2025CatholicHolyYearweyrunthroughtonextJanuary,however,demdoncancelalldipubliceventsondiPopecalendarthroughtoSunday.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=158, Unlabeled=0
+
+Line 17:
+Text:   |Bestgospelact-AnnatoriaDiSuperFalconsofNigeriaalsowindiNationalTeamofdiYearAward.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=81, Unlabeled=0
+
+Line 18:
+Text:   |universalhealthcaretheproductofacommunistgovernmentisconsideredcomparabletothoseofmuchwealthiernations|
+Labels: |PPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=87, Pidgin=15, Unlabeled=0
+
+Line 19:
+Text:   |Dilawsuitsaydiprogramme""falsely,recklessly,andmaliciouslyaccuseOgaCombsofmurdering""figuresaroundamincludingformerpartnerKimPorterandrapperChristopherWallace,knownasBiggieSmallsanddiNotoriousBIG.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=196, Unlabeled=0
+
+Line 20:
+Text:   |Eventerroristswantstoclaiminnocent|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=34, Unlabeled=0
+
+Line 21:
+Text:   |Asababoysdongopackageogumeforhimhead...|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=39, Unlabeled=0
+
+Line 22:
+Text:   |qualificationforanyworkweydemdeypaysalaryHowcansuchamanbeaccusedofadestabilisationplot.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=87, Unlabeled=0
+
+Line 23:
+Text:   |thatonegodoam|
+Labels: |PPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=13, Unlabeled=0
+
+Line 24:
+Text:   |MyCOUNTRY.....|
+Labels: |EEEEEEEEEEEEEE|
+Stats:   English=14, Pidgin=0, Unlabeled=0
+
+Line 25:
+Text:   |MystateANAMBRAdoncast.Yarimo,mustnotsssthisMajorityofourwomenarenaturallydullWhatdouexpectfromghettofabulouspicsJustlookatthewholeenvironmentDirtythings|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=152, Pidgin=0, Unlabeled=0
+
+Line 26:
+Text:   |Instead,heledthepartymemberstocourt.Thankfully,hispartywonattheAppeallastweek.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=78, Pidgin=0, Unlabeled=0
+
+Line 27:
+Text:   |TreasurySecretaryTimothyGeithnerurgedCongresstoapprovetheadministrationsplantoexpandthegovernmentspowerstomonitorlargefinancialfirms|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=132, Pidgin=0, Unlabeled=0
+
+Line 28:
+Text:   |NafivenomineesdeygoheadtoheadforwhogobediAfricaMen'sBestPlayer.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=63, Unlabeled=0
+
+Line 29:
+Text:   |-mostofthetime.|
+Labels: |PPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=15, Unlabeled=0
+
+Line 30:
+Text:   |Justremembersayyourguynogodeythisschoolforevero.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=48, Unlabeled=0
+
+Line 32:
+Text:   |AnotherwayNigerianTeacherscancashout|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=36, Unlabeled=0
+
+Line 33:
+Text:   |Peter,youwon'twishyourfriend,Nasirel-Rufai,ahappybirthday?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=58, Unlabeled=0
+
+Line 34:
+Text:   |MyhighesthopeweyIneveryanorfitachieve|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=37, Unlabeled=0
+
+Line 35:
+Text:   |donmakesomeimportantchangestoourPrivacyandCookiesPolicyandwewanmakeyouknowwetindisonemeanforyouandyourpersonalinfomation.AsIstatedearlier,theCourtofAppealsaidthattherequestforthereinstatementoftheChairmenandCouncilorshasbecomeanacademicexercise.WecallonlegalluminariesandtheNigerianBarAssociationtofactcheckourclaimsbyreadingandinterpretingthejudgments.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=251, Pidgin=102, Unlabeled=0
+
+Line 36:
+Text:   |Theslavemasterisatwork.|
+Labels: |EEEEEEEEEEEEEEPPPPPPPPP|
+Stats:   English=14, Pidgin=9, Unlabeled=0
+
+Line 37:
+Text:   |""EsurprisemeasIlearnsayegetpipoweydeytravelgospacedemgoleavedisdimension-andgomoon,""shetellGlobalCitizen,oneorganisationweydiagoalnatoendextremepoverty.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=154, Unlabeled=0
+
+Line 38:
+Text:   |Mybrodadonturnpriest|
+Labels: |PPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=20, Unlabeled=0
+
+Line 39:
+Text:   |OrderfromAsoOrderfromabove..YouguysarejustconfusedWhenObasawasimpeached,majorityofyou,includingSalamrushdieweresayingthereasonfortheimpeachmentwasbecausehewantedtocontestagainstSeyiTinubufortheLagosGovernorshippost,attributedthesagatoTinubuNow,acounteractionistakingplaceandyouareblamingTinubuforthisagainYou'reconfused.Thisisnormalna|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=334, Pidgin=0, Unlabeled=0
+
+Line 40:
+Text:   |Whatabarbaricandgreedythieveswhodon'tcareabouttheconsequencesoffakeandexpireddrugs.Algeria|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=90, Pidgin=0, Unlabeled=0
+
+Line 41:
+Text:   |Canyouplaytrumpetornot,MajorSilva?BruhanAbubakarnofitwakaforaboutaweekaftaebreaklegaseentaopenmanholeforAbuja,Nigeriacapitalcity.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=40, Pidgin=89, Unlabeled=0
+
+Line 42:
+Text:   |OdaplayerslikeOsinachiOhale,AsisatOshoalaandRasheedatAjibademakediCafBest11forwomen.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=84, Unlabeled=0
+
+Line 43:
+Text:   |wishanddatcutyoushortimbecile|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=29, Unlabeled=0
+
+Line 44:
+Text:   |Eriseby11%to1.77bn.|
+Labels: |PPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=19, Unlabeled=0
+
+Line 45:
+Text:   |ChristianleadershavefinallyturnedChristianitytoreligionofjokers,everyonedoesanyhowandthefoolishmembersfollowblindly.Nothingiswrongwithhisdressing,butsomeoneofhispersonalityshouldn'tbeseenwearingthis.WhatdoIknow,oncetheyhavemoney,theystarttomisbehave.DibiggestmusicshowfordiworldgohappundisweekendforAmerica.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=223, Pidgin=84, Unlabeled=0
+
+Line 46:
+Text:   |""ButdiresilienceofNewOrleansdeymatchedbydiresolveofourkontri.""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=64, Unlabeled=0
+
+Line 47:
+Text:   |DemdonekillmypoorFreddie!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=25, Unlabeled=0
+
+Line 48:
+Text:   |In2015,thenNigeriapresidentMuhammaduBuharideclareimassetsasimpreachtransparency.IdeywatchasyouwanuseyouralternatemonikersandyourgoonstoLIKEthenonsenseyoualwaysspillonthisspace.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=15, Pidgin=161, Unlabeled=0
+
+Line 49:
+Text:   |SulaimanBalaIdristoksaysomepipogotinksaynapeaceagreementdemdeydowitdibandits,butenobeso.Wepassourheartfeltcondolencestoimfamilyandentirefootballfraternity.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=155, Unlabeled=0
+
+Line 50:
+Text:   |Finewineisuselesswithoutthebottleandthelabelonit.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=49, Pidgin=0, Unlabeled=0
+
+Line 51:
+Text:   |DidyoualsoseeFasoroti,themanagainstBabalola.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=44, Pidgin=0, Unlabeled=0
+
+Line 52:
+Text:   |TheyblockdrainageandcreatestatictrafficWahabexplainedtheillegalprocessinwhichshopowners/tradershadconvertedthesetbackofthedrainagechannelsinthemarketstostallshadimpededthefreeflowofstormwaterandcouldleadtoseriousdiseasebreakoutsofCholera,Diarrhea,typhoidfever,amongstothers,sayingifeachandeveryonemakegoodsanitationpracticesadailyaffairintheirshopsandenvirons,itwouldsavethecitizenryfromcontinuousvisittothehospitals.Withtheseillegalstallsandshops,ifpropercareisnottaken,wecanhaveamajordiseaseoutbreak,andtheseoutbreakscanhavenegativeimpactsonourhealthcaresystem,suchthatwewouldstartundertakingvarioustestswhichwecanavoidbydoingtheneedfulineverycornerofourstallshesaid.HerecalledthattheStateGovernmenthadbannedstyrofoamoverayearagoduetoitsadverseeffectsonhumanhealthanddrainagechannels.|
+Labels: |EEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=9, Pidgin=777, Unlabeled=0
+
+Line 53:
+Text:   |Disonemeansaywomenlikemegettoworktwiceashardtoprovediaworth,""shetok."IwillneverforgetOctober8,2014,inmylife!Thatday,IwassupposedtoresumeatM&Bandaconstructioncompany.PriortotheOctober8resumption,M&BtoldmeIwasgoingtobepostedtotheeast,withacarattachedtotheofferasMedicalSalesRep,andthatitwouldbecontractual.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=134, Pidgin=171, Unlabeled=0
+
+Line 54:
+Text:   |-Areyoucrazy?|
+Labels: |EEEEEEEEEEEEE|
+Stats:   English=13, Pidgin=0, Unlabeled=0
+
+Line 55:
+Text:   |-ItwasonlyTroywhowasnotcaughtupinthemoment.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=43, Pidgin=0, Unlabeled=0
+
+Line 56:
+Text:   |BlairsLaborPartyonThursdaywonathirdstraightgeneralelectionvictory|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=65, Pidgin=0, Unlabeled=0
+
+Line 57:
+Text:   |Madamsaymakeyoucome.|
+Labels: |EEEEEEEEEEEEEEEEEEEE|
+Stats:   English=20, Pidgin=0, Unlabeled=0
+
+Line 58:
+Text:   |IknowI'vemadelotsofmistakes.Wetindeymakeamlooklikepesinweyshesabiwellwell|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=28, Pidgin=45, Unlabeled=0
+
+Line 59:
+Text:   |Threemonthinsidelunaticasylum!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=30, Unlabeled=0
+
+Line 60:
+Text:   |Disnadicategoriesandpipoweymakedinomination|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=43, Unlabeled=0
+
+Line 61:
+Text:   |MARKETING&ADVERTISINGSocialMediaManagementStartingat150,000/monthSEOServicesstarting70,000150,000+Facebook,Instagram,TikTok,Google,LinkedIn,twitterAds(NIgerianMarket)Startingfrom15,000/weeklyperplatformFacebook,Instagram,TikTok,Google,LinkedIn,twitterAdsGlobaltargeting(UK,USA,EuropeAsiaandmore!)Startingfrom$150/weeklyperplatformEmailMarketingCampaignsStartingat40,000CompleteMarketingStrategy500,0001M+3.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=151, Pidgin=255, Unlabeled=0
+
+Line 62:
+Text:   |Itisatribalbusinesstosomethemnowandtheyaretryingtofightoff"competitors"!|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=72, Pidgin=0, Unlabeled=0
+
+Line 63:
+Text:   |Enogoodmakemandefordarkness.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=28, Unlabeled=0
+
+Line 64:
+Text:   |NigerdonputstrainfordiarelationshipwitneighbouringkontrieslikeNigeria,IvoryCoast,Benin.BESTCOLLABORATION|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=41, Pidgin=63, Unlabeled=0
+
+Line 65:
+Text:   |Thoseguysarenolongerneeded.YoudonoffendCaptainLydga|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=51, Unlabeled=0
+
+Line 66:
+Text:   |KansasCitybinwinone38-35thrillerfor2023forArizonaandsometinlikedatgogodownagainverynicely.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=90, Unlabeled=0
+
+Line 67:
+Text:   |AftademdiMPsdondestroyditinsfordiconferenceroom,demnowadjourndivettingofdirestofditwoministers(healthandforeignaffairs)toFriday31January.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=137, Unlabeled=0
+
+Line 68:
+Text:   |Asdiplanecomeintoland,airtrafficcontrollerstelldipilotsof38mph(61km/h)gustsandthepossibilityofa""slightbumpfordiglidepath"",CNNreport.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=134, Unlabeled=0
+
+Line 69:
+Text:   |BestjazzinstrumentalalbumEalsoworkasassistantaccountsmanager,UnionOilGhana,accountantforTrustHandsAuto,parttimeteacherforCityBusinessCollege,teacherforGomoaDominaseD/AJSS,boardmemberforbothGomoaSeniorHighTechnicalSchoolandPetrosolMSandtechnicaldirectorfordiDownstreamPetroleumInstitute.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=286, Unlabeled=0
+
+Line 70:
+Text:   |CoulditbeYBNLallthiswhile?|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=26, Pidgin=0, Unlabeled=0
+
+Line 71:
+Text:   |Wesupposedeythere.|
+Labels: |EEPPPPPPPPPPPPPPPP|
+Stats:   English=2, Pidgin=16, Unlabeled=0
+
+Line 72:
+Text:   |defendantsfacehangingifconvictedPolicealsosaydemseeevidenceoffrequentabuse.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=75, Unlabeled=0
+
+Line 73:
+Text:   |writteninideythesameageasthatbaldy|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=34, Unlabeled=0
+
+Line 74:
+Text:   |pleaseguyspleasedon'tjustscrollpass.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=36, Unlabeled=0
+
+Line 75:
+Text:   |OgaPotrabindeyveryactiveduringdiDRCongomissionuntilafewmonthsagowenegobackRomania-anddeyforwrappedforcontroversyfordimiddleofdicancelledpresidentialelectionthere.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=162, Unlabeled=0
+
+Line 76:
+Text:   |Despitesaydiplaneslidefordirunway,DianePerrysayshehearofdicrashhenherfamilycallherwhileshebindeyinlinetocheckherluggage.Answerme!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=129, Unlabeled=0
+
+Line 77:
+Text:   |BrightondonshowinterestinEnglishcentre-backTosinAdarabioyo,27,weybinjoinChelseainJuly.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEE|
+Stats:   English=14, Pidgin=72, Unlabeled=0
+
+Line 78:
+Text:   |Nomatterhowparanoidorconspiracy-mindedyouare,whattheNigerianarmyandNigeriagovernmentisactuallydoingisworsethanyoucaneverimagine.PoliceforAbujabinparadesomeofdissuspectedmanholecovertiffs,fordifferentvideosweybindeycirculateonline.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=134, Pidgin=96, Unlabeled=0
+
+Line 79:
+Text:   |vesselwasheadedtoaMuslimreligiousfestivalinthetownofTadjouraAslongasthepurposeisnottorevealthingsthatshouldbeconcealed..Thatsaid,naunaweydeyallowunawivestogovisitthesenewgenerationpastorsIdeypity.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=87, Pidgin=109, Unlabeled=0
+
+Line 80:
+Text:   |It'swell.SaynotoOwoosoleakamoneyritual,itdoesnotwork.DearYorubaboyspleasestopwastinginnocentYorubagirls'livesinthenameoftryingtomakemoney,moneyritualisnothingbutafallacy|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=20, Pidgin=149, Unlabeled=0
+
+Line 81:
+Text:   |resultleavesMASshortofthetwothirdsneededtocontroltheassemblywhichwillrewritetheconstitution|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=91, Pidgin=0, Unlabeled=0
+
+Line 82:
+Text:   |crowdofabout200peoplehadgatheredaroundBoroujerdishousetocallforthereleaseoftheclericsjailedfollowersWhilesomedeywritecondolencemessagestoimfamilyandlovedonesodasstilldeyjokeontopimdeath.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=105, Pidgin=81, Unlabeled=0
+
+Line 83:
+Text:   |BetterMan|
+Labels: |EEEEEEEEE|
+Stats:   English=9, Pidgin=0, Unlabeled=0
+
+Line 84:
+Text:   |ASEBESOCIVILWARDONSTARTSOOOOOCAUSEBOYZSAYIFSHERESIGNEVERYWHEREGOBURNSOOOOO|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=74, Pidgin=0, Unlabeled=0
+
+Line 85:
+Text:   |ADifferentMan|
+Labels: |EEEEEEEEEEEEE|
+Stats:   English=13, Pidgin=0, Unlabeled=0
+
+Line 86:
+Text:   |pausedleaningimheadonimhandanddeylookthefloorACompleteUnknown|
+Labels: |EEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=37, Pidgin=24, Unlabeled=0
+
+Line 87:
+Text:   |-YouthinkIneedmoneysomuchstonecourtonthatdayegomakebrain|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPP|
+Stats:   English=41, Pidgin=15, Unlabeled=0
+
+Line 88:
+Text:   |Lovely........|
+Labels: |PPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=14, Unlabeled=0
+
+Line 89:
+Text:   |Bestmusicfilm|
+Labels: |PPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=13, Unlabeled=0
+
+Line 90:
+Text:   |NigeriadeyforGroupCfordi2025AfricaCupofNationsweygohappunforMoroccolaterdisyear.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=80, Unlabeled=0
+
+Line 91:
+Text:   |Insanerclimes,manywouldhaveresignedbytheBinanceguy'sallegationswhichobviouslymoretruethanfalse.Butwhendemgetagalondebed,youneverseedemagain.|
+Labels: |PPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=83, Pidgin=57, Unlabeled=0
+
+Line 92:
+Text:   |Iholdtighttodisidesofimchairanddeygrindimteeth|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=46, Unlabeled=0
+
+Line 93:
+Text:   |VictorOsimhen,Nigeria-Napoli(ITA)|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEE|
+Stats:   English=5, Pidgin=28, Unlabeled=0
+
+Line 94:
+Text:   |Oncethesixslotsarefull,anyattempttoplaceadsonthesamesectionbyotheradvertiserswillresultinapendingplacement.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=107, Pidgin=0, Unlabeled=0
+
+Line 95:
+Text:   |-Eachwasholdingaknapsack.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=25, Pidgin=0, Unlabeled=0
+
+Line 96:
+Text:   |DiNorwegianstrikergetonly3goalsindilast11premierleaguegames.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=60, Unlabeled=0
+
+Line 97:
+Text:   |Sheshakeherheadandforcesmileweylightupherpaleface|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=49, Unlabeled=0
+
+Line 98:
+Text:   |TomnorweargraysuitBesthip-hopact-Bashy|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=38, Unlabeled=0
+
+Line 99:
+Text:   |Whoinviteyou?|
+Labels: |PPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=13, Unlabeled=0
+
+Line 100:
+Text:   |Whasdematter?Shameuntothislawmakers.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=36, Unlabeled=0
+
+Line 101:
+Text:   |Sunday,9February30GMT|
+Labels: |PPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=21, Unlabeled=0
+
+Line 102:
+Text:   |peacekeepersandtheinterimgovernmenthavebeenstrugglingtocontainviolenceinHaitisinceMrAristidewasremovedfrompowerinFebruary2004|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=125, Pidgin=0, Unlabeled=0
+
+Line 103:
+Text:   |DiaplannatoissuenewtravelpassportweygotallywitdiawithdrawalfromEcowas.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=70, Unlabeled=0
+
+Line 104:
+Text:   |-Mybrother,Abele,isinyearonethere.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=34, Unlabeled=0
+
+Line 105:
+Text:   |AlthoughRwandabindeyconsistentlydenybackingdirebels,diaresponsedonshifttoamoredefensiveone,wiagomenttok-tokpiposayfightingneardiabordernasecuritythreat.Isiteducation,religion,democracy?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=33, Pidgin=152, Unlabeled=0
+
+Line 106:
+Text:   |Heknewhisman.|
+Labels: |EEEEEEEEEEEEE|
+Stats:   English=13, Pidgin=0, Unlabeled=0
+
+Line 107:
+Text:   |BrownehasbecomethenewestinducteeintheSongwritersHallOfFame|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=58, Pidgin=0, Unlabeled=0
+
+Line 108:
+Text:   |Thesearepartsofwhatmadethesepeoplebillionairesinfraudulentactivities.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=69, Pidgin=0, Unlabeled=0
+
+Line 109:
+Text:   |Youcaneitherbea30yearoldgraduatebythen,orbea30yearoldwhoallowedwhatpeoplewouldthinkmakehimnotpursuehisdesiretogetadegree.Mysiblingsandclosefriendsareallgraduates,exceptme.SometimesIgetshywhenI'maroundthem,anditmakesmefeelsad.|
+Labels: |EEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=6, Pidgin=219, Unlabeled=0
+
+Line 110:
+Text:   |SaynotoOwoosoleakamoneyritual,itdoesnotwork.DearYorubaboyspleasestopwastinginnocentYorubagirls'livesinthenameoftryingtomakemoney,moneyritualisnothingbutafallacyIswear|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=166, Unlabeled=0
+
+Line 111:
+Text:   |Diawardgospeciallyrecognisedi'Rookieofdiyear'fordiaexcellenceperformanceindimusicindustryindipastyear.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=102, Unlabeled=0
+
+Line 112:
+Text:   |Youstillwantogobackandlissentodeolmanlecture?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=45, Unlabeled=0
+
+Line 113:
+Text:   |Whilecondemningillicitdrugtrade,Obiemphasizedtheimportanceoffairnessinlawenforcementandurgedfortransparencyduringshopinspections,involvingstoreownersintheprocess.HimjobNatowriteforwallniidemdonepayalready|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=169, Pidgin=35, Unlabeled=0
+
+Line 114:
+Text:   |URASHISTATEfromSouthEastgeopoliticalzone.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=41, Unlabeled=0
+
+Line 115:
+Text:   |EstartdiBGLInsuranceGroupandebegoodfriendoflateSouthAfricanstatesmanNelsonMandela.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=82, Unlabeled=0
+
+Line 116:
+Text:   |Noindustrialization.Abegmakeyoujustdodiessentialrepairs|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=55, Unlabeled=0
+
+Line 117:
+Text:   |""ForTrump,dimorechaos,dimoreimdeyflooddizone,dilesspipogoactuallyfitfocuson.Netherlands|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=88, Unlabeled=0
+
+Line 118:
+Text:   |Deyjuschopyourmoneyfornothin.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=29, Unlabeled=0
+
+Line 119:
+Text:   |IfyouwanreachuphighmakeyouuseyaownlegsItwillnotbelike2023resultwhereObithetribalist,took98%intheSE.Bro,ignorethosepeople.Howmanyyearshavetheybeensoundingsame?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=58, Pidgin=100, Unlabeled=0
+
+Line 120:
+Text:   |It'snotjustyourenvironmentthatshoulddictateyourdressing.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=56, Unlabeled=0
+
+Line 121:
+Text:   |Enodeyclearwetincausediincident,analystsdeysuggestsayweatherfitdonplayedarole,ordiaircrafthitsomething.Youhavecontinuedtogetbetterwiththepassageoftheyears.Asyoumarkyour54thbirthday,Iwishyouahappybirthdayandmoreyearsingoodhealthintheserviceofourcountryandhumanity.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=181, Pidgin=82, Unlabeled=0
+
+Line 122:
+Text:   |naThursdayebedat|
+Labels: |PPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=16, Unlabeled=0
+
+Line 123:
+Text:   |Yes,tokeepyoufromescaping.-Youbewayomanplainandsimple.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=54, Unlabeled=0
+
+Line 124:
+Text:   |Hxhx|
+Labels: |PPPP|
+Stats:   English=0, Pidgin=4, Unlabeled=0
+
+Line 125:
+Text:   |AccordingRCArecords,""dissongdeypayhomagetoTemschildhoodandupbringing.""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=72, Unlabeled=0
+
+Line 127:
+Text:   |YBNLgambledonAsake,pouredresourcesintohiscareer,andturnedhimintoaglobalbrand.Gagabindeysurroundedbyfirstrespondersassheplayablackbabygrandpianofordimiddleofdiroad.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=77, Pidgin=86, Unlabeled=0
+
+Line 128:
+Text:   |JacobsandTolumurmuredagreement.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=31, Unlabeled=0
+
+Line 129:
+Text:   |MinanolooklikesaysheseedemYouknowIintentionallypretendednottoknowthemotivatingfactorbehindhispost.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=72, Pidgin=26, Unlabeled=0
+
+Line 130:
+Text:   |Iknewaboutitatthefinalstageoftheinterview.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=42, Pidgin=0, Unlabeled=0
+
+Line 131:
+Text:   |DirebelstoksaymostofdipreviousdealstoenddifightingnodeyrespectedDigroupgetdianamefromonepeaceagreementweydemsignon23March2009.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=126, Unlabeled=0
+
+Line 132:
+Text:   |""MightyIrokotree""donfall.FelicityJonesinTheBrutalist|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=27, Pidgin=27, Unlabeled=0
+
+Line 133:
+Text:   |Thepalaceisalreadycollaboratingwithsecurityagenciestoensurethatthoseusinghotelsforcriminalhideoutsareexposed,heasserted.TheAsagbareaffirmedhissupportforgovernmenteffortsintacklinginsecuritybutstressedthattraditionalinstitutionsmustalsotakeanactiveroleinprotectingtheircommunities.Westandwiththegovernmentatalltimes,buttherecomesamomentwhenwemustbemoreproactive.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=361, Pidgin=0, Unlabeled=0
+
+Line 134:
+Text:   |-Myfathershouldbecominganyminutenowandhewouldknow.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=50, Pidgin=0, Unlabeled=0
+
+Line 135:
+Text:   |That'swheretheyalwayshide.|
+Labels: |EEEEEEEEEEEPPPPPPPPPPPPPPP|
+Stats:   English=11, Pidgin=15, Unlabeled=0
+
+Line 136:
+Text:   |Leaveammakeetokjudge|
+Labels: |PPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=20, Unlabeled=0
+
+Line 137:
+Text:   |Ok|
+Labels: |EE|
+Stats:   English=2, Pidgin=0, Unlabeled=0
+
+Line 138:
+Text:   |Ifyouradsareattractiveandwelltargeted,peoplewillnoticethemwithoutanyanimations.IftosaynaTJstillbedon,iftosaytheynoexpelam,heforcollectHarrystuff,evenmaybethedollarswithoutanysuchstress.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=115, Pidgin=70, Unlabeled=0
+
+Line 139:
+Text:   |PresidentBolaTinubuhascalledontheAfricanUnionPeaceandSecurityCouncil(AUPSC)toprioritizetheestablishmentofaCombinedMaritimeTaskForcetoenhancesecurityintheGulfofGuinea.Speakingatthe38thOrdinarySessionoftheAssemblyoftheAfricanUnion(AU)HeadsofStateandGovernmentinAddisAbaba,Ethiopia,TinubuexpressedNigeriaTMsreadinesstohosttheheadquartersoftheproposedtaskforceinLagos.DeliveringNigeriaTMspositiononbehalfofthePresident,MinisterofForeignAffairs,AmbassadorYusufTuggar,emphasizedtheurgentneedforcollectivemaritimesecurityefforts."ThetimehascomefortheAfricanUnionPeaceandSecurityCounciltoprioritisethecreationofaCombinedMaritimeTaskForcefortheGulfofGuinea.IwishtoannouncethatNigeriawouldliketohosttheheadquartersofthetaskforceinLagos."NigeriaSignsStrategicAgreementwithAUTinubuTMscallforamaritimetaskforcecoincidedwithNigeriaTMssigningofalandmarkagreementwiththeAUtoprovideStrategicSeaLiftServicesforpeacesupportoperations,naturaldisasterresponse,humanitarianactions,andpersonnelmovement.NigeriaTMsMinisterofDefence,BadaruAbubakar,signedtheagreement,underwhichtheNigerianNavywillprovideavesselfortheseoperationsonacost-recoverybasis.ThesigningceremonywaswitnessedbyAttorney-GeneralandJusticeMinisterPrinceLateefFagbemi,ForeignAffairsMinisterAmbassadorYusufTuggar,ChiefofNavalStaffViceAdmiralEmmanuelIkechukwuOgalla,andDirector-GeneraloftheNigerianIntelligenceAgency,AmbassadorMuhammedMuhammed.AmbassadorBankoleAdeoye,theAUCommissionerforPoliticalAffairs,Peace,andSecurity,signedonbehalfoftheAfricanUnion.RegionalSecurityandCounter-TerrorismInitiativesPresidentTinubucommendedtheAUPSCforadoptingrecommendationsfromarecenthigh-levelsecuritymeeting,includingthedecisiontoupgradeNigeriaTMsNationalCounter-TerrorismCentreintoaRegionalCounter-TerrorismCentre.HealsowelcomedtherenewalofthemandatefortheMultinationalJointTaskForce(MNJTF),whichcombatsterrorismandviolentextremismintheLakeChadRegion.ExpressingconcernsoverLibyaTMscontinuedinstabilityanditsspillovereffectsontheSahel,TinubuurgedtheAUtosupportinitiativesaimedatrestoringlawandorderintheNorthAfricancountry."TheSahelcannotenjoypeaceaslongasLibyadoesnot,"hewarned.Hefurtherhighlightedtheinsecurityplaguingcountriesindemocratictransition,includingSudan,BurkinaFaso,Mali,Niger,SouthSudan,andGabon,callingforcollectiveAUintervention.PushforAfrican-LedPeaceOperationsandEconomicStabilityTinubuadvocatedforleveragingUNSecurityCouncilResolution2719tosupportAU-ledpeaceoperationsandwarnedagainsttheincreasinginvolvementofextra-continentalmilitaryforces,includingprivatemilitarycontractors,inAfricaTMssecuritymatters.ThePresidentalsoreaffirmedNigeriaTMscommitmenttotheAfricanStandbyForce,urgingAUmemberstofinalizethedraftMemorandumofUnderstandingforitsfulloperationalization.Oneconomicmatters,TinububackedtheestablishmentofanAfrican-ledCreditRatingAgency(ACRA)toprovidefairerandmoretransparentassessmentsofAfricaneconomies,counteringbiasesoftenobservedinglobalratingagencies."AnindependentAfrican-ledratingagencywillhelpprovidefairerassessmentsofAfricaneconomiesandreducethebiasoftenobservedinexistingglobalratingagencies,"Tinubustated.HecommendedtheAfricanUnion,theAfricanDevelopmentBank(AfDB),andtheSpecializedTechnicalCommittee(STC)onFinanceforadvancingtheAfricaFinancingStabilityMechanism(AFSM),whichaimstoaddressrisingborrowingcosts,debtburdens,andlimitedaccesstoaffordablelong-termfinancing."TheestablishmentoftheAFSMunderscoresthecollectivecommitmentofmemberstatesinaddressingfinancialvulnerabilitiesandfosteringeconomicresilienceacrossthecontinent,"hesaid.TinubuconcludedbyemphasizingtheimportanceofadoptingtheAFSMtostrengthenfinancialstabilityandenhanceAfricaTMsresilienceagainstexternaleconomicshocks.TheBureauNewspaper|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=3526, Pidgin=140, Unlabeled=0
+
+Line 140:
+Text:   |GoodGodedeycry|
+Labels: |PPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=14, Unlabeled=0
+
+Line 141:
+Text:   |WhatIgottowastetimederefor?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=27, Unlabeled=0
+
+Line 142:
+Text:   |EgetmilitarybackgroundanddondoNatotoursforAfghanistanwitdiRomanianarmy.Thisisrubbishin20thcentury.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=98, Unlabeled=0
+
+Line 143:
+Text:   |DRCongobincontractdiRomanianstohelpdiaarmyfightdiRwanda-backedM23rebels,weysaydemdeyfighttoprotectdirightsofDRCongominorityethnicTutsis.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=136, Unlabeled=0
+
+Line 144:
+Text:   |Janeyoubadpikinwakagoliedown|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=28, Unlabeled=0
+
+Line 145:
+Text:   |Withouthesitation,shedroppedherfoodandrushedofftomeetherFacebookcrush.Thatwasthelasttimeanyonesawheralive.HowSheWasFoundWhenYetundedidnTMtreturnhome,herfamilygrewanxious.ShenogetwahalawitcousinGeorgianacompany|
+Labels: |PPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=137, Pidgin=72, Unlabeled=0
+
+Line 146:
+Text:   |""Nademstartdiwarfor2014.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=25, Unlabeled=0
+
+Line 147:
+Text:   |Notawarded|
+Labels: |PPPPPPPPPP|
+Stats:   English=0, Pidgin=10, Unlabeled=0
+
+Line 148:
+Text:   |Dimembersexpressdiashockoverdiinvasionwendemgadaforplenary.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=59, Unlabeled=0
+
+Line 149:
+Text:   |Demgowaitfordiwinnersofdieighttwo-leggedknockoutplay-offtiesweygofeaturediclubsweyrankfromninthto24th.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=102, Unlabeled=0
+
+Line 150:
+Text:   |Can'twaitforHushpuppitocomeback|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=31, Unlabeled=0
+
+Line 151:
+Text:   |Shenevamakeanycommentdideathofpipoweydieduringdikasala.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=55, Unlabeled=0
+
+Line 152:
+Text:   |hisAkpabiocannotpassinNA..andhewantsArewatotrusthimforasecondterm..exactnumberofmilitantcasualtiesisstillnotclear|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=65, Pidgin=48, Unlabeled=0
+
+Line 153:
+Text:   |WhatabalabluBlue-blueBulaba|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=27, Pidgin=0, Unlabeled=0
+
+Line 154:
+Text:   |saysofficialsfriskedandphysicallythreatenedhimAndyoukintastewhateusetochopeverynightbeforehecomebackanmarrymeproper.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=49, Pidgin=67, Unlabeled=0
+
+Line 155:
+Text:   |WewillgoafterthemandretrievewhattheyhavestolenfromEdopeople.Theywillbemadetopayforit.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=85, Pidgin=0, Unlabeled=0
+
+Line 156:
+Text:   |Maninadilemmaasheshareshowhisgirlfriendreactedafterheusedadifferentphonetotexther.Accordingtotheman,hehadwantedtotesttheloyaltyofhisgirlfriend.Heusedadifferentphonetotextherandpretendedtobeacustomer.Twodayslater,heaskedforthemtomeetandspendsometimetogether,andtohissurprisetheladyagreed.ThemanissadandwonderswhetherthatTMsaredflag.HiswordsreadSirD,thankyouforallyoudo,ItextedmybabeonadifferentnumberandactedlikeIwantedtoordersomethingfromherinjusttwodaysIaskedherifwecouldmeetandspendtimetogethersheagreedsentaddressformetocomepickherup.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=516, Pidgin=21, Unlabeled=0
+
+Line 157:
+Text:   |Prosecutorsallegesaynaatdatpoint,MrMayersagainpulloutdigunandfiremultipleshots,withonebulletweydemsattouchMrEphronknuckles.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=123, Unlabeled=0
+
+Line 158:
+Text:   |SoIdeywaitmakegomentopendicoronerinquestmakeIknowwetinkillMohbad,""nasoetok.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=76, Unlabeled=0
+
+Line 159:
+Text:   |-Well,hedidnotwasteanytime,didhe-Wilhelmhadthreatenedtotakethematterupwithhiscousin,Yibrilwasthatit|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=99, Pidgin=0, Unlabeled=0
+
+Line 160:
+Text:   |Imsorry,Jagua-HeheldherarmtightlyLikeRwanda,UgandadonentaeasternDRCongobeforeclaimingsayedeyprotectimborders.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=33, Pidgin=76, Unlabeled=0
+
+Line 161:
+Text:   |Andyourunafteranymanwithcarormoney!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=35, Unlabeled=0
+
+Line 162:
+Text:   |NawaoooDiBritishawardshowbinstartfor1996anddonhostplentiartistsweyincludeBeyonce,Rihanna,Sade,LionelRichieamongodas.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=116, Unlabeled=0
+
+Line 163:
+Text:   |30days.May4,804,141uniquevisitors,29,680,083visits.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=51, Pidgin=0, Unlabeled=0
+
+Line 164:
+Text:   |ForAsaketoexitnow,justasthelabelispoisedtorecoupitsinvestmentsandenjoythefruitsoftheirlabor,feelsratherungrateful.TheDoubleStandardsofSuccessItTMshardtoignorethehypocrisythatoftensurroundsconversationslikethis.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=106, Pidgin=104, Unlabeled=0
+
+Line 165:
+Text:   |likeawholecaskfulasequicklyrefreshedhimselfbutigoby|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=51, Unlabeled=0
+
+Line 166:
+Text:   |30days.May4,334,289uniquevisitors,29,172,768visits.Wetinwegodoagain?|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=68, Pidgin=0, Unlabeled=0
+
+Line 167:
+Text:   |policearrestedtheBritishcitizeninRomeaweekaftertheJuly21attackswhichcausednofatalitiesbutbroughtchaostoLondontwoweeksaftersuicidebomberskilled52peopleintheBritishcapitalMakedemnocomedeyuse100kfordataandthenpaytutors15kpermonthooo|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=162, Pidgin=67, Unlabeled=0
+
+Line 168:
+Text:   |ThesignswereclearwhenLunguBoy,histhirdproject,droppedin2024.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=60, Unlabeled=0
+
+Line 169:
+Text:   |AlthoughdigunfireandexplosionsforGomadondiedownsmall,notallestablishmentsdeybacktobusinessasnormal.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=99, Unlabeled=0
+
+Line 170:
+Text:   |Tinubumustcontest,must!<Younogowaittilldemfinish?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=26, Pidgin=23, Unlabeled=0
+
+Line 171:
+Text:   |Whyyoutellmeyoudonloveher?|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=26, Pidgin=0, Unlabeled=0
+
+Line 172:
+Text:   |CPIrebasingnaexercisewendemdeycarryouttomakesuresaydimethodologicalbasisuponwhichdemdeyconstructdiCPIdeystrong,logicalandconsistentwithbestpractices.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=149, Pidgin=0, Unlabeled=0
+
+Line 173:
+Text:   |ArsenalfitmeetCelticorManchesterCityfordatroundalso.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=52, Pidgin=0, Unlabeled=0
+
+Line 174:
+Text:   |Asdemnoinvitedemtodisummit,OgaZelenskysayTrump""deylivefordisinformationspace""weyRussiacreate.ofadelegationfromtheCongressofSouthAfricanTradeUnionsCOSATUsaytheyhavebeendeniedentrytoZimbabweastheyarrivedinthecapitalHarareforafactfindingmissionearlyWednesday|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=128, Pidgin=129, Unlabeled=0
+
+Line 175:
+Text:   |Tinubuisknowntobetheleaderofthugs,andthugsareantidemocratic.InorkwnwaytintotellthisOp.Theladyhe'sprayingforalsocametothegymwithexcisingoutfit.Becausehe'sgoingtoapublicgym,sheshouldwearagbada,becausehehasthemoney,heshouldhavehadaprivategyminthishousewhenhe'snotasportsman.Abegmakesomeofunatrytodeymindunabusiness.Hypocritetoomanyamongus,wecomekwnthisBiblepassthepeoplewhenintroducethisreligiontous.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEE|
+Stats:   English=39, Pidgin=358, Unlabeled=0
+
+Line 176:
+Text:   |OpportunityforFireboitogetattentionfromYBNLboss.Dembethreeweyformdigroup,himselfandtwoodas-BlackfaceandFaze.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=108, Pidgin=0, Unlabeled=0
+
+Line 177:
+Text:   |Onepeaceprocess,weyAngolafacilitateweyinvolveRwandaandDRCongo,binresultinsideceasefiredeallastyear,howeverenolastanddifightingstartagain.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=94, Pidgin=43, Unlabeled=0
+
+Line 178:
+Text:   |ofthemeetinghavenotbeenreleasedShechopallhimmoneyfinishandbegintalkrot.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=71, Unlabeled=0
+
+Line 179:
+Text:   |""LikeaBird""SingSing|
+Labels: |PPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=21, Unlabeled=0
+
+Line 180:
+Text:   |saytheraiddoesnotimplythepoliticianhimselfisinvolvedinillegalactivity|
+Labels: |EEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEE|
+Stats:   English=33, Pidgin=36, Unlabeled=0
+
+Line 181:
+Text:   |PrimeMinisterShaukatAzizhasarrivedinNewDelhifortalkswithIndianleaderstoreviewtheongoingpeaceprocessbetweenthetwoneighbors|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=47, Pidgin=74, Unlabeled=0
+
+Line 182:
+Text:   |USPresidentDonaldTrumpdontoksayegocutallfuturefundingtoSouthAfricasakeofaccusesaydikontrideytakepipolandanddeytreat""certainclassesofpipoverybad"".209,513,873pageviews.|
+Labels: |PPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=93, Pidgin=75, Unlabeled=0
+
+Line 183:
+Text:   |EremainIPOBandESNtojoin...Igboamaka|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=35, Unlabeled=0
+
+Line 185:
+Text:   |saysthewoundedsoldiersweretakentoamedicalfacilityfortreatment|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=61, Unlabeled=0
+
+Line 186:
+Text:   |NnekaAchapu,oneTexas-basedUS-Africapolicystrategist,toksaydisnabecospiposeediMediterraneancrossinggoEuropeastoodangerous.ThatuselessgroupofpeoplethatjustarrivedUKinthelast1to7years.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=181, Unlabeled=0
+
+Line 187:
+Text:   |Icometobegyousomefavour.DiBidenadministrationbinarguesayChinafituseTikTokastoolforspyingandpoliticalmanipulation.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=44, Pidgin=69, Unlabeled=0
+
+Line 188:
+Text:   |Bifortouristsfitentaandleavedihotelwitease,butnowheavilyarmedmembersofdiPanamanianNationalAeronavalServicedonenforcestrictsecuritymeasuresinsideandoutsidedibuilding.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=165, Unlabeled=0
+
+Line 189:
+Text:   |ButUS-Africapolicystrategist,NnekaAchapu,toksaydisituationfitbechancefordiUSAfricancommunitytoshowdiaresilience.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPP|
+Stats:   English=56, Pidgin=56, Unlabeled=0
+
+Line 190:
+Text:   |Iwasdraftedtorunforpresident.SinceIlefyouforBaganaweneverseen.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=62, Unlabeled=0
+
+Line 191:
+Text:   |Forinsidediemotionalvideoweylastforaboutthreeminutes,Mercyallegesayebinbullyandthreatenher,sheaddsaynabecosofhersafetysherelocatefromLagostoPortHarcourt,Riversstateasebinthreatentodestroyhermusicalcareer.|
+Labels: |PPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=192, Pidgin=12, Unlabeled=0
+
+Line 192:
+Text:   |Perclick?|
+Labels: |EEEEEEEEE|
+Stats:   English=9, Pidgin=0, Unlabeled=0
+
+Line 193:
+Text:   |-UnlessweAfricansdrivealldisforeignfirmcommot...olygamynobeforme,""shetokforherInstagrampage.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=48, Pidgin=45, Unlabeled=0
+
+Line 194:
+Text:   |InsecurityfromabittersoulisallIseehere.She'stryingtoridiclethosewitfirstclassdegree.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEE|
+Stats:   English=7, Pidgin=77, Unlabeled=0
+
+Line 195:
+Text:   |DeathtoallterroristsandtheirsympathizersThecondolencevisitfromthefederallawmakerstoAmaewhuleisawelcomedevelopment.These27boysdontoosufferandneedsthevisit|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=61, Pidgin=92, Unlabeled=0
+
+Line 196:
+Text:   |WhatdoesprivatecandidatemeanWAEC,plsexpantiatefurther.DiSteynFoundation,binestablishthroughSteynCityProperties,alsosupportpoortownships.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=136, Unlabeled=0
+
+Line 197:
+Text:   |Eneverreachatallatall|
+Labels: |PPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=21, Unlabeled=0
+
+Line 198:
+Text:   |DembornTemsforJuly23,1996.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=26, Unlabeled=0
+
+Line 200:
+Text:   |havebeenmorethan30missilestrikestargetingallegedmilitantsinPakistansinceAugustAnybodydeypain|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=92, Unlabeled=0
+
+Line 201:
+Text:   |SecurityoperativesforAnambraState,southeastNigeria,donarrestoneogbongetraditionalpriest,EkeneIgboekweze,popularlyknownasEkeHit.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=53, Pidgin=74, Unlabeled=0
+
+Line 202:
+Text:   |Havenofear,yousafewitme.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=24, Pidgin=0, Unlabeled=0
+
+Line 203:
+Text:   |GomaresidentsfulldistreetsafewmilesfromdiborderwithRwanda-commutersdeygowork,hawkersdeysellgoodsbydiroadsideandtaxidriversdeyhustlecustomers.|
+Labels: |EEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=18, Pidgin=123, Unlabeled=0
+
+Line 204:
+Text:   |Mysister,makeyounoworryyourself.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=32, Unlabeled=0
+
+Line 205:
+Text:   |AndohhowhappyIdeytofinallyfindam|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=32, Unlabeled=0
+
+Line 206:
+Text:   |RomanCatholicArchbishopofWestminsterCardinalCormacMurphyOConnorpresidedoverthefuneralmass|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=89, Unlabeled=0
+
+Line 207:
+Text:   |Beastu.EthicsAnyee!!|
+Labels: |PPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=20, Unlabeled=0
+
+Line 208:
+Text:   |Isthishowwewanttogrowasanation?Somemigrantsraisediaarmsandcrossdematdiwriststoshowsaydemdeydeprivedemofdiafreedom.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=114, Unlabeled=0
+
+Line 209:
+Text:   |sheshrugged.|
+Labels: |PPPPPPPPPPPP|
+Stats:   English=0, Pidgin=12, Unlabeled=0
+
+Line 210:
+Text:   |Ecowasfordiaannouncementtoksaydemgokeepdidoorsopensakeofspiritofregionalsolidarity.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=83, Unlabeled=0
+
+Line 211:
+Text:   |Youdeyjoke|
+Labels: |PPPPPPPPPP|
+Stats:   English=0, Pidgin=10, Unlabeled=0
+
+Line 212:
+Text:   |Hadfouroffers,pickedthebestandrejectedtherest|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=45, Unlabeled=0
+
+Line 213:
+Text:   |MiddlesbroughdeyadvancedtokstosignHullCityleft-backRyanGiles,weymake45appearancesforBorowhileonloanfromWolvesindia22/23season.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=42, Pidgin=84, Unlabeled=0
+
+Line 214:
+Text:   |Terroristyouths.|
+Labels: |EEEEEEEEEEEEEEEE|
+Stats:   English=16, Pidgin=0, Unlabeled=0
+
+Line 215:
+Text:   |Butoga,moutnofittalkam,makeyoucomeseeforyourself.Forexample,antiretroviralsthatpeoplegetfreeofchargeingovernmenthospitals,whomadethatpossible?Plus,USAIDfundsmanySMEsinNigeria.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=144, Pidgin=31, Unlabeled=0
+
+Line 216:
+Text:   |AllmylifefitdonbenoMrCarton|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=27, Unlabeled=0
+
+Line 217:
+Text:   |Abegmakeyousidonherwakagosiddonforevrihwhereevrihwhere|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEE|
+Stats:   English=6, Pidgin=48, Unlabeled=0
+
+Line 218:
+Text:   |Smalldropofogumemustdeythisone..inreconstructionfightingcorruptionrestructuringdomesticindustryandattractingforeignaidandinvestmentarekeytofuturegrowth|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=151, Pidgin=0, Unlabeled=0
+
+Line 219:
+Text:   |Abegenta|
+Labels: |EEEEEEEE|
+Stats:   English=8, Pidgin=0, Unlabeled=0
+
+Line 220:
+Text:   |Ikemcouldunderstandwellenoughtherootsoftheparadoxinwhichamanspersonalchoicetolivesimplywithoutsuchtrimmingsaschaueurscouldstamphimnotasamodestandexemplarycitizenbutasamean-mindedmiserdenyingalivelihoodtooneunemployeddriveroutofhundredsandthousandsroamingthestreetsaparadoxsoperverseinitsimplicationsastojustifythecallforthetotaldismantlingofthegrotesqueworldinwhichitgrowsandourishes.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=258, Pidgin=126, Unlabeled=0
+
+Line 221:
+Text:   |Tiasay,butdoyouwantmetospeaktoheraboutwhathappenedwithherhusband?Ok|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=67, Pidgin=0, Unlabeled=0
+
+Line 222:
+Text:   |scientistswarnthatinaboutthelastdecadetheworldsseaicehasmeltedfasterthanexpected|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=80, Unlabeled=0
+
+Line 223:
+Text:   |Someelectricityandcableworkerstoodeyusemanholestoaccessundergroundcablesandwires.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=81, Unlabeled=0
+
+Line 224:
+Text:   |Therewerenocollarbonestobeseenwhenshefacedhim,andwhensheturnedherbackathim,steppingoutofherclothes,thevoluptuousnessofherbigmouldedhipsseducedhimandmadehisangersharpenathisownweaknessforher.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=91, Pidgin=99, Unlabeled=0
+
+Line 225:
+Text:   |""Weasteamdeyfollowourogbongefanstodeypainedaboutdiresultsfromlastnight.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=72, Pidgin=0, Unlabeled=0
+
+Line 226:
+Text:   |BrazilwiaFelipecomefromgetdihighestratesofsocialmediausefordiworld.|
+Labels: |EEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=9, Pidgin=58, Unlabeled=0
+
+Line 227:
+Text:   |LifegoesonDembeatMoroccofordiroundof16,beforeWilliams'shoot-outheroicsmakedembaetCapeVerdeandDRCongo.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=65, Pidgin=36, Unlabeled=0
+
+Line 228:
+Text:   |YUPPE(SOUTHAFRICA)|
+Labels: |PPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=18, Unlabeled=0
+
+Line 229:
+Text:   |Verygood|
+Labels: |PPPPPPPP|
+Stats:   English=0, Pidgin=8, Unlabeled=0
+
+Line 230:
+Text:   |AmericanhostageJillCarroll28arrivedatRamsteinAirBaseinGermanySaturdayassheheadedhometotheUnitedStatesafter82daysincaptivityinIraq|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=129, Unlabeled=0
+
+Line 231:
+Text:   |ArewepickinguptheBidengarbageTrumpdumped?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=41, Unlabeled=0
+
+Line 232:
+Text:   |PopularNigeriansingerHabeebOkikiola,weypiposabiasPortable,dontoksayimgetmentalproblem.ImagineempoweringwomentobethelordsovertheirhusbandsintheUK.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=145, Unlabeled=0
+
+Line 233:
+Text:   |Adedancer,smartuporyou'llbebuttedoutinnotime!DiswinhelpCityfinish22fordileaguetable,justtwoplacesabovedilastqualificationposition,asdemmanagetoqualifyfordiplayoffstagetoseewedademfitreachdiroundof16.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPP|
+Stats:   English=72, Pidgin=127, Unlabeled=0
+
+Line 234:
+Text:   |-Plentypub-houses.|
+Labels: |PPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=18, Unlabeled=0
+
+Line 235:
+Text:   |Outburstsfromdefendantsduringtrialsnocommon,especiallyinfrontofjury.Whyyounogondmehere?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=87, Unlabeled=0
+
+Line 236:
+Text:   |Disinclude64%increaseinmatchdayrevenueto4.3mweybinincreasesakeofdifactsaydemhostWomenSuperLeague(WSL)gamesforEmiratesStadium.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=50, Pidgin=75, Unlabeled=0
+
+Line 237:
+Text:   |WestandwithTrump,andofcourse,theableNetanyahuwhoisthenemesisofthejihadistsandallislamicterroristsEvenpassreligion,KenyanmentalhealthadvocateAmisaRashidtinksayculturalfactorslikelanguagealsogetroletoplayfordistigma.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPP|
+Stats:   English=131, Pidgin=83, Unlabeled=0
+
+Line 239:
+Text:   |saysonesoldierwasslightlywoundedduringtheoperation|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=50, Unlabeled=0
+
+Line 240:
+Text:   |DRCongoForeignMinisterThrseKayikwambaWagnerdonwritetodiownersofArsenalandPSGandtoBayernpresidentHerbertHainerto""kwesiondimorality""ofdideals.CzechRepublicisastableandprosperousmarketeconomywhichharmonizeditslawsandregulationswiththoseoftheEUpriortoitsEUaccessionin2004|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=237, Pidgin=32, Unlabeled=0
+
+Line 241:
+Text:   |Shesayimbinnoreallyunderstandwetindeyhappun,biforimknowwetindeyhappundigirlbegin""beatam"",shetok."|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=99, Pidgin=0, Unlabeled=0
+
+Line 242:
+Text:   |Ifamanisassaulted,whatstopshimfromreportingthecaselikeanyother?Therationaleforprovidingexpeditedandenhancedprotectionforwomenandchildrenisthefactthatstatistically,menaremorelikelytophysicallyabusewomen,andphysiologically,awomenarefarlikeliertogetseriouslyhurtbymenratherthanviceversa.Again,ifyouhaveawomanwhoabusesyou,youhaveeveryrighttowalkintoapolicestateandseekjusticetoo.Iftheyaresilly,whatdoesyourowncommentsmakeyou?Bestalternativemusicperformance|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEPPPPP|
+Stats:   English=138, Pidgin=314, Unlabeled=0
+
+Line 243:
+Text:   |Youwonseemeden,onlynowwhenyoustrugglin.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=39, Unlabeled=0
+
+Line 244:
+Text:   |BestR&BsongShetoksaywensheentadihoteltoofferhelpasFarsitranslator,demtoksaydemdonalreadyhelpdem,althoughaccordingtosourcesweydeyinsidedihotel,enobetrue,shetok.|
+Labels: |PPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=155, Pidgin=4, Unlabeled=0
+
+Line 245:
+Text:   |Lastmonth,PresidentCyrilRamaphosasignintolawonebillweygoallowlandseizureswithoutcompensationforcertaincircumstances.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=116, Pidgin=0, Unlabeled=0
+
+Line 246:
+Text:   |YussifIssakaJajahnaMPfordiAyawasoNorthconstituencyfortwotermsnow.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=65, Pidgin=0, Unlabeled=0
+
+Line 247:
+Text:   |IknowI'vemadelotsofmistakes.everywheredeyhappenatonce|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=25, Pidgin=28, Unlabeled=0
+
+Line 248:
+Text:   |Theworldfavorsconservativeideology,samewayasNature/EvolutionIhavenothingagainstseeingpeopleofdifferentculture/RacetryingreallyhardtosanitizetheirownlandandstoppinginfiltrationofwanderersintotheirspaceIevenhopethatlocally,wecanstartgravitatingtowardssomethinglikethis,eithercovertlyorofficiallyinformofaregionalGovernment/EthnicNation|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=126, Pidgin=207, Unlabeled=0
+
+Line 249:
+Text:   |Forknowledgehealwaysdeytrytoformbigforsmallmoney|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=48, Pidgin=0, Unlabeled=0
+
+Line 250:
+Text:   |Bestgrimeact-Scorcher|
+Labels: |EEEEPPPPPPPPPPPPPPPPP|
+Stats:   English=4, Pidgin=17, Unlabeled=0
+
+Line 251:
+Text:   |""Itinkingeneralweavoidhumancontactinawayweywebinnodeydo."""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=60, Unlabeled=0
+
+Line 252:
+Text:   |Lol....wonderwhathe'supto.....Butanyways,kudostohimforhissupportandGodblesshim...!!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=83, Unlabeled=0
+
+Line 253:
+Text:   |OgbeniwayraydropyourbannynumbermakemenorderSOMETHINGforherhand|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=62, Unlabeled=0
+
+Line 254:
+Text:   |AndnowshesawthatEnglandhadwidenedthegulfbetweenthem.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=52, Unlabeled=0
+
+Line 255:
+Text:   |Ibegyouletmetiemywrapperproperlybeforeenteringthestreet.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=56, Unlabeled=0
+
+Line 256:
+Text:   |JosephAlobaforexclusiveinterviewwitBBCPidginaccuseauthoritiessaydemdeyplaywitdicaseandnowanallowjusticetakeimcourse.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=116, Unlabeled=0
+
+Line 257:
+Text:   |ButdiBBCdondiscoverevidencesaydembindongetcontinuoswarningsoverseveralyearssaydischeme,weygomentsetupandfundedbyvariousoilfirmstodituneof$1bn(805m),dondeysufferfromdifferentissues.|
+Labels: |PPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPP|
+Stats:   English=164, Pidgin=16, Unlabeled=0
+
+Line 258:
+Text:   |Obiisalwaysexcitedbythenewsofdeath.ThelasttimeIreadabouthim,hewasatafuneralsomewhere.Youneverseehimatweddings.Obinodeygowherecelebrationdey.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=140, Unlabeled=0
+
+Line 259:
+Text:   |Iyawilldiethantobetrayyourmother,hesay.Oyetolaisstillpainedforloosingelection.theweaklingshouldwaitforthenextelectionandtryhisluck.SooyetolaistheappealcourtJudgeDidyouevenreadthepostatall|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=73, Pidgin=114, Unlabeled=0
+
+Line 260:
+Text:   |withoutdemhowlawsorarts|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=23, Pidgin=0, Unlabeled=0
+
+Line 261:
+Text:   |""Wedeyworkwitlocalofficialstohelppipoweydeyaffected,supportingdipipoweyvoluntarywanreturnandidentifyingsafealternativesforodas,""etok.|
+Labels: |EEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=17, Pidgin=118, Unlabeled=0
+
+Line 262:
+Text:   |""Wendemland,everybodydeycalldemRussian,""FistonMahamba,co-founderofdisinformationgroupCheckCongo,toldtheBBC.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEE|
+Stats:   English=8, Pidgin=101, Unlabeled=0
+
+Line 263:
+Text:   |Sha,theyTMreallkidstoNed.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=25, Pidgin=0, Unlabeled=0
+
+Line 264:
+Text:   |ObasaisacheckmateforSanwo.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=26, Pidgin=0, Unlabeled=0
+
+Line 265:
+Text:   |Startbusinesseswithlittleornocapitalandachievehighprofityields....""Troopsandandstate-of-di-artmilitaryequipmentfromRwandabinsupportdiM23rebelsanddemmanagetoreachourpositionsarounddicityofGoma,""ConstantinTimofti,weydemdescribeasco-ordinatorfordigroup,tellRomanianTVRchannelonMonday.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=179, Pidgin=104, Unlabeled=0
+
+Line 266:
+Text:   |Whichhigh-rankinggovernmentofficialwillwanttocollectbribeandfeeltheneedtotellyouheneedsthebribeforhispresidentialaspirationscome2027.IfanNSAwantsabribe,whydoesheneedtomentionwhatheneedsthebribeforTheIndianmanistellingporkies.Injusttwoweeks,toribesaythousandsofpipodondeykilledanddifightingdonturnwarofwordsbetweenDRCongoanddianeighbour,Rwanda.|
+Labels: |PPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=276, Pidgin=67, Unlabeled=0
+
+Line 267:
+Text:   |Appealcourtofjusticejudgmentstands,AlltheelectedApcLGchairmenwillresumefullytomorrowintheirvarioussecretariats|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=69, Pidgin=41, Unlabeled=0
+
+Line 268:
+Text:   |Whennoneofthemsaidaword,Mozizcontinued,Defirstthingwegoaskamtodonatoprintmoneyforus.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=84, Unlabeled=0
+
+Line 269:
+Text:   |Bestalternativemusicalbum|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=25, Unlabeled=0
+
+Line 270:
+Text:   |ShebediownerofShoesbyFlora.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=27, Unlabeled=0
+
+Line 271:
+Text:   |Hewascalm,well-liked,andhadafuture,yetsomethingdeepertroubledhimsomethingnoonenoticed.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=34, Pidgin=52, Unlabeled=0
+
+Line 272:
+Text:   |Mineralproducts,likepetroleumoilandgas,accountfor90%ofexportsfromNigeria,mostofwhichdeycomefromdiNigerDeltaregion.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=114, Pidgin=0, Unlabeled=0
+
+Line 273:
+Text:   |AndhedeygymhouseWenodeylikewomenwithBigNyashandBreastweygodistractthepublic.Evenifnasomeoneliketinubuwangym,sheyegowearlongsleeveandtrowserAnywomanweythisdressingturnonnasexaddictorashawo|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=86, Pidgin=101, Unlabeled=0
+
+Line 274:
+Text:   |forindependenceduringthe1980sandearly1990sendedinthe1998NoumeaAccordwhichoveraperiodof15to20yearswilltransferanincreasingamountofgoverningresponsibilityfromFrancetoNewCaledonia|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=176, Unlabeled=0
+
+Line 275:
+Text:   |warnedthePalestinianAuthoritynottotrytodisarmthemilitantgroups|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=62, Unlabeled=0
+
+Line 276:
+Text:   |""Nawayoweydemplaysodatmoremoneygoentaintodipotandendupindipocketsofpoliticiansandodapipoinpower.""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=99, Unlabeled=0
+
+Line 277:
+Text:   |DivideodeycomeaftapolicedeclarePortablewantedonMondaynightsakeofallegeassaultongovmentofficials.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEE|
+Stats:   English=9, Pidgin=87, Unlabeled=0
+
+Line 278:
+Text:   |Therecouldbetruthinthis.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=24, Pidgin=0, Unlabeled=0
+
+Line 279:
+Text:   |Shesay,""Charityvoicebindeypowerfulbicosshebindeytokfromherlifeexperience.Bestmaleact-CentralCee|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=96, Pidgin=0, Unlabeled=0
+
+Line 280:
+Text:   |Demgodropdiaguns,kongetplaceweydemanddiafamilyfitstaywitoutcondition.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=69, Pidgin=0, Unlabeled=0
+
+Line 281:
+Text:   |However,herinvolvementbincausetok-toksakeofdiquestionsweysurroundhercitizenshipandeligibility,weyleadtoherwithdrawalfromdipageant.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=130, Pidgin=0, Unlabeled=0
+
+Line 282:
+Text:   |Whenhe,inhiswisdomsawfittoplacewingsonmyfeetandmakemeflyuponthedesertedbeachawayfromyourflamingcutlassofwrath,itwasnot,beassured,mylifeuponwhichhesetsuchvalue.HappybirthdaytoSowore.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=67, Pidgin=114, Unlabeled=0
+
+Line 283:
+Text:   |Insidethiscomprehensiveebookfilledwithover150untappedbusinessideas,ourteamofprofessionalssharestheirpracticalexperiencestohelp...|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEE|
+Stats:   English=11, Pidgin=118, Unlabeled=0
+
+Line 284:
+Text:   |NotethatfromMarchandApriltheNairawillbeginit'sslide,foodinflationwillbegintoskyrocket.Peopleshouldbraceforimpact.Nademownwifedeytakebodyknackdewallforground.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=28, Pidgin=129, Unlabeled=0
+
+Line 285:
+Text:   |-...|
+Labels: |PPPP|
+Stats:   English=0, Pidgin=4, Unlabeled=0
+
+Line 286:
+Text:   |Idowu,hermindislikeawaterunderasoftbreeze.Ideylikepersonweydieyoung|
+Labels: |PEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=66, Pidgin=1, Unlabeled=0
+
+Line 287:
+Text:   |Bothteams,AsanteKotokoandNsoatreman,doncondemndikasala.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=55, Pidgin=0, Unlabeled=0
+
+Line 288:
+Text:   |20GBnowna7,500fromdi5,500weyebebifor.Igotnoco-operationatallFromtheblacksmith.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=78, Pidgin=0, Unlabeled=0
+
+Line 289:
+Text:   |Aftadisixhourswiadiministersitbifordicommitteetoanswerquestions,dirankingmemberdontoksaymakediministernodenyamprotocolallocationfordimilitary.Callstoherphonewentunanswered,andsoon,panicsetin.Desperate,herfamilyreportedhermissingattheOyunPoliceStationinKwaraState.Usingherphonerecords,policetracedherlastknowncontacttoAbdulrahmanMubarakBalogun.Atfirst,hedeniedevenknowingher.Butwhenauthoritiesinsistedonsearchinghisapartment,hisstorychanged.HenowclaimedYetundehadsufferedanasthmaattackanddied.ThepolicewerenTMtconvinced.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPP|
+Stats:   English=360, Pidgin=159, Unlabeled=0
+
+Line 290:
+Text:   |Dicitydonalsobecomesafeplaceforpipoweydeyrunfromdifight-fightbetweenM23fightersanddiarmyweystartagainforlate2021asdipopulationdonincreasetoaroundtwomillion.Astheypassedus,Iwavedatmymom,butbecausesheworedarkshades,Iwouldneverknowifshesawme.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=239, Unlabeled=0
+
+Line 291:
+Text:   |governmentstatementsaysIsraelitouristscouldbekidnappedbyproPalestinianmilitantsNonewreasonforfeardonshow|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPP|
+Stats:   English=61, Pidgin=43, Unlabeled=0
+
+Line 292:
+Text:   |Ifitsgotgam-gbamdim-dimthatshakestheveryairIbreathe,Ideygrab,JesussGeneralsaid.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=79, Unlabeled=0
+
+Line 293:
+Text:   |Siddonwetin?|
+Labels: |PPPPPPPPPPPP|
+Stats:   English=0, Pidgin=12, Unlabeled=0
+
+Line 294:
+Text:   |YesnawetinCompeysonwifetalk-oncesinceshedmethim|
+Labels: |PPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=30, Pidgin=17, Unlabeled=0
+
+Line 295:
+Text:   |NalaterCelticmanagescoreonegoalaftaDaizenMaedadeftheaderfordi79thminute.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=44, Pidgin=28, Unlabeled=0
+
+Line 296:
+Text:   |GoalofdiYear-Mabululu(Angola)Gabon|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=34, Unlabeled=0
+
+Line 297:
+Text:   |SoYoung,RIPlad|
+Labels: |PPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=14, Unlabeled=0
+
+Line 298:
+Text:   |deathbringsthenumberofpeopleinVietnamkilledbythevirusto50outof105totalhumaninfectionsThemfearNorthpassGodsef.SomeonewhofacedPresident+VicePresident+SenatePresident+PartyChairman+CBNGovernorCOMBINEDandfloggedthemisamilitarygenius.AfricanUnion.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=176, Pidgin=66, Unlabeled=0
+
+Line 299:
+Text:   |SHALLIPOPICAST(FT.|
+Labels: |EEEEEEEEEEEEEEEEEE|
+Stats:   English=18, Pidgin=0, Unlabeled=0
+
+Line 300:
+Text:   |Sheaskamwiaebindey|
+Labels: |EEEEEEEEEEEEEEEEEE|
+Stats:   English=18, Pidgin=0, Unlabeled=0
+
+Line 301:
+Text:   |Sakeofsincediauditornofittoopendidocuments,pipofitsubmitincompletedocumentsorodasgostuffdienvelopeandpresenttodiAGoffice.OnemayWonderwhatisUSbenefitingfromalltheseandwhyAfricacan'thavegoodleaders|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=195, Pidgin=0, Unlabeled=0
+
+Line 302:
+Text:   |Whereisthetoilet?|
+Labels: |EEEEEEEEEEEEEEEEE|
+Stats:   English=17, Pidgin=0, Unlabeled=0
+
+Line 303:
+Text:   |Howdoyourespond?|
+Labels: |EEEEEEEEEEEEEEEE|
+Stats:   English=16, Pidgin=0, Unlabeled=0
+
+Line 304:
+Text:   |SherequestedanofficialstatementtoclarifytheUSposition.Inaddition,sheraisedconcernsaboutthefutureofNigerianstudentsintheUSandtheuncertaintysurroundingUSAIDprograms,stressingtheneedforcontinuedbilateralcooperation.USResponseandTradeRelationsInresponse,AmbassadorMillsreassuredtheministerthattheDropBoxVisaSystemhadnotbeensuspendedbutwasunderreview.Regardingdeportations,heclarifiedthatindividualsbeingrepatriatedwouldbereturnedtoLagos,withprioritygiventothoseconvictedofcrimesorviolatingimmigrationlaws.Ontraderelations,theUSenvoyhighlightedtheupcomingexpirationoftheAfricanGrowthandOpportunityAct(AGOA)inSeptemberandencouragedNigeriatopushforitsrenewal.HereaffirmedtheUnitedStates'commitmenttostrengtheningdiplomaticandeconomictieswithNigeria.CrackdownonIllegalImmigrationTheUnitedStatesImmigrationandCustomsEnforcement(ICE)identified3,690Nigeriansamongnearlytwomillionnon-citizensslatedfordeportationunderPresidentDonaldTrumpTMsadministrationTMsimmigrationpolicies.TheFederalGovernmentcontinuestoengagewithUSauthoritiestoensurethatdeportationprocessesalignwithinternationalstandardsandthatNigeriannationalsaretreatedfairly.TheBureauNewspaper|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=917, Pidgin=224, Unlabeled=0
+
+Line 305:
+Text:   |Doeshebelievethesefailuresareacceptableorjustified?Diministryofhealthbindeyeducatepiposincelastyearovadiillness.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE_|
+Stats:   English=111, Pidgin=0, Unlabeled=1
+
+Line 306:
+Text:   |AccordingtoTIB,aftercompletingthe10kmrace,Soworeandhiscrewwereconfrontedbyindividualswhoclaimedtheircanopywasreservedforgovernmentdignitaries.|
+Labels: |______________________________________________________________________________________________________________________________________________|
+Stats:   English=0, Pidgin=0, Unlabeled=142
+
+Line 307:
+Text:   |VerdebecameamemberoftheWTOinJuly2008|
+Labels: |____________________________________|
+Stats:   English=0, Pidgin=0, Unlabeled=36
+
+Line 308:
+Text:   |ColmanDomingo(SingSing)|
+Labels: |_______________________|
+Stats:   English=0, Pidgin=0, Unlabeled=23
+
+Line 309:
+Text:   |Atlasttheprodigiouspassionsofthatextraordinarydayseemedatanend.|
+Labels: |_______________________________________________________________|
+Stats:   English=0, Pidgin=0, Unlabeled=63
+
+Line 310:
+Text:   |ChancellorAngelaMerkeltookpartincommemorationsattheTombofPolandsUnknownSoldier|
+Labels: |______________________________________________________________________________|
+Stats:   English=0, Pidgin=0, Unlabeled=78
+

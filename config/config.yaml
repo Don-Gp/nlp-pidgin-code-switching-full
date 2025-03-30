@@ -1,0 +1,69 @@
+# Configuration file for Nigerian Pidgin English Code-Switching Detection
+
+# Path configuration
+paths:
+  data_dir: "data/corpus"
+  models_dir: "models"
+  outputs_dir: "outputs"
+  logs_dir: "logs"
+
+# Data configuration
+data:
+  mixed_corpus: "data/corpus/mixed.txt"
+  english_corpus: "data/corpus/english.txt"
+  pidgin_corpus: "data/corpus/pidgin.txt"
+  ground_truth: "data/corpus/ml_ground_truth.txt"
+  test_data: "data/test/test_text.txt"
+
+# PPM model configuration
+ppm:
+  # Directory where the Tawa models will be saved (relative to project root)
+  tawa_models_dir: "models/ppm/tawa_models"
+  # Absolute paths for Tawa toolkit commands (Git Bash format)
+  train_cmd: "/c/Users/ogbonda/Documents/Tawa-1.0.2/Tawa-1.0/apps/train/train"
+  markup_cmd: "/c/Users/ogbonda/Documents/Tawa-1.0.2/Tawa-1.0/apps/transform/markup"
+  languages:
+    - name: "English"
+      model_prefix: "english"
+      training_file: "data/corpus/english.txt"
+    - name: "Pidgin"
+      model_prefix: "pidgin"
+      training_file: "data/corpus/pidgin.txt"
+  training:
+    orders: [2, 3, 4, 5, 6, 7, 8]
+    params:
+      memory: 1000000    # 1MB of memory per model
+      alpha: 256         # PPM alpha parameter
+      exclusion: "D"     # Exclusion method
+
+# ML model configuration
+ml:
+  validation_split: 0.1
+  sample_rate: 3
+  fast_mode: false
+  super_fast: false
+  window_size: 5
+  batch_size: 32
+  epochs: 10
+  patience: 3
+  embedding_dim: 64
+  lstm_units: 128
+
+# Evaluation configuration
+evaluation:
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1_score
+  save_detailed_results: true
+  compare_models: true
+
+# Visualization configuration (separated from main evaluation)
+visualization:
+  enabled: true
+  plots:
+    - accuracy
+    - confusion_matrix
+    - language_distribution
+    - f1_comparison

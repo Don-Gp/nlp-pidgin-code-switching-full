@@ -1,0 +1,1550 @@
+CHARACTER LABELING ALIGNMENT FOR markup_output5
+================================================================================
+
+Legend: E = English, P = Pidgin, _ = Unlabeled
+
+Line 1:
+Text:   |Idol narrowed the field of hopefuls to 16 March 1 bouncing two women and two men|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=80, Pidgin=0, Unlabeled=0
+
+Line 2:
+Text:   |Just 100 naira condom would have helped|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=39, Pidgin=0, Unlabeled=0
+
+Line 3:
+Text:   |Wow Anambra is being islamized.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=31, Pidgin=0, Unlabeled=0
+
+Line 4:
+Text:   |- Isnt the prof supposed to be tucking you into bed now|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=55, Pidgin=0, Unlabeled=0
+
+Line 5:
+Text:   |to ABC News interviewer Dianne Sawyer the 25yearold costar of TV s The Simple Life said she is almost four months along in her pregnancy|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=136, Pidgin=0, Unlabeled=0
+
+Line 6:
+Text:   |Please wipe Ndibgo tears by giving them the presidency.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=55, Pidgin=0, Unlabeled=0
+
+Line 7:
+Text:   |How man go fit shit inside room wey get carpet, not to talk of polish wood?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=75, Unlabeled=0
+
+Line 8:
+Text:   |Video show as Chelle squat and dem begin pour am water for head afta di loss  im emotional reaction later become one of di highlights of Afcon 2023. staterun media says the first meeting took place after Mr Chavez arrived Friday night|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=91, Pidgin=143, Unlabeled=0
+
+Line 9:
+Text:   |... He saw Nancy butt into her and Jagua screamed.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPP|
+Stats:   English=42, Pidgin=8, Unlabeled=0
+
+Line 10:
+Text:   |- You people, you get strong mind|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=33, Unlabeled=0
+
+Line 11:
+Text:   |I come from Lagos to know de home of Freddie Namme. in northwest Pakistan say suspected Taliban militants have blown up a primary school that educated girls|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=122, Pidgin=34, Unlabeled=0
+
+Line 12:
+Text:   |How mama be today?|
+Labels: |PPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=18, Unlabeled=0
+
+Line 13:
+Text:   |You no sabi book but you sabi plenty thing wey pass book, my dear girl. Waste of effort|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=87, Unlabeled=0
+
+Line 14:
+Text:   |Im hand nack like vice for my wrist as e dey worry am -  Philo shrugged and laughed|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=20, Pidgin=63, Unlabeled=0
+
+Line 15:
+Text:   |If you come as soon as you close, he said, you can stay in my guest-room with everything completebedroom, parlour, bathroom, latrine, everythingself- contained.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=59, Pidgin=101, Unlabeled=0
+
+Line 16:
+Text:   |E suppose lead several events ova di weekend for di 2025 Catholic Holy Year wey run through to next January, however, dem don cancel all di public events on di Pope calendar through to Sunday.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=192, Unlabeled=0
+
+Line 17:
+Text:   |Best gospel act - Annatoria Di Super Falcons of Nigeria also win di National Team of di Year Award.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=99, Unlabeled=0
+
+Line 18:
+Text:   |universal health care the product of a communist government is considered comparable to those of much wealthier nations|
+Labels: |PPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=102, Pidgin=17, Unlabeled=0
+
+Line 19:
+Text:   |Di lawsuit say di programme ""falsely, recklessly, and maliciously accuse Oga Combs of murdering"" figures around am including former partner Kim Porter and rapper Christopher Wallace, known as Biggie Smalls and di Notorious BIG.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=229, Unlabeled=0
+
+Line 20:
+Text:   |Even terrorists wants to claim innocent|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=39, Unlabeled=0
+
+Line 21:
+Text:   |Asaba boys don go package ogume for him head...|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=47, Unlabeled=0
+
+Line 22:
+Text:   |qualification for any work wey dem dey pay salary How can such a man be accused of a destabilisation plot.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=106, Unlabeled=0
+
+Line 23:
+Text:   |that one go do am|
+Labels: |PPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=17, Unlabeled=0
+
+Line 24:
+Text:   |My COUNTRY.....|
+Labels: |EEEEEEEEEEEEEEE|
+Stats:   English=15, Pidgin=0, Unlabeled=0
+
+Line 25:
+Text:   |My state ANAMBRA  don cast.Yarimo, must not sss this Majority of our women are naturally dullWhat do u expect from ghetto fabulous picsJust look at the whole environmentDirty things|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=181, Pidgin=0, Unlabeled=0
+
+Line 26:
+Text:   |Instead, he led the party members to court.Thankfully, his party won at the Appeal last week.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=93, Pidgin=0, Unlabeled=0
+
+Line 27:
+Text:   |Treasury Secretary Timothy Geithner urged Congress to approve the administration s plan to expand the government s powers to monitor large financial firms|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=154, Pidgin=0, Unlabeled=0
+
+Line 28:
+Text:   |Na five nominees dey go head to head for who go be di Africa Men's Best Player.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=79, Unlabeled=0
+
+Line 29:
+Text:   |- most of the time.|
+Labels: |PPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=19, Unlabeled=0
+
+Line 30:
+Text:   |Just remember say your guy no go dey this school forever o.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=59, Unlabeled=0
+
+Line 31:
+Text:   ||
+Labels: ||
+Stats:   English=0, Pidgin=0, Unlabeled=0
+
+Line 32:
+Text:   |Another way Nigerian Teachers can cash out|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=42, Unlabeled=0
+
+Line 33:
+Text:   |Peter, you won't wish your friend, Nasir el-Rufai, a happy birthday?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=68, Unlabeled=0
+
+Line 34:
+Text:   |My highest hope wey I never yan or fit achieve|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=46, Unlabeled=0
+
+Line 35:
+Text:   |don make some important changes to our Privacy and Cookies Policy and we wan make you know wetin dis one mean for you and your personal infomation. As I stated earlier, the Court of Appeal said that the request for the reinstatement of the Chairmen and Councilors has become an academic exercise.We call on legal luminaries and the Nigerian Bar Association  to fact check our claims by reading and interpreting the judgments.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=274, Pidgin=151, Unlabeled=0
+
+Line 36:
+Text:   |The slave master is at work.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=28, Pidgin=0, Unlabeled=0
+
+Line 37:
+Text:   |""E surprise me as I learn say e get pipo wey dey travel go space  dem go leave dis dimension - and go moon,"" she tell Global Citizen, one organisation wey dia goal na to end extreme poverty.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=192, Unlabeled=0
+
+Line 38:
+Text:   |My broda don turn priest|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=24, Unlabeled=0
+
+Line 39:
+Text:   |Order from Aso Order from above..You guys are just confusedWhen Obasa was impeached, majority of you, including Salamrushdie were saying the reason for the impeachment was because he wanted to contest against Seyi Tinubu for the Lagos Governorship post, attributed the saga to TinubuNow, a counter action is taking place and you are blaming Tinubu for this againYou're confused. This is normal na|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=396, Pidgin=0, Unlabeled=0
+
+Line 40:
+Text:   |What a barbaric and greedy thieves who don't care about the consequences of fake and expired drugs. Algeria|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=107, Pidgin=0, Unlabeled=0
+
+Line 41:
+Text:   |Can you play trumpet or not, Major Silva? Bruhan Abubakar no fit waka for about a week afta e break leg as e enta open manhole for Abuja, Nigeria capital city.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=49, Pidgin=110, Unlabeled=0
+
+Line 42:
+Text:   |Oda players like Osinachi Ohale, Asisat Oshoala and Rasheedat Ajibade make di Caf Best 11 for women.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=100, Unlabeled=0
+
+Line 43:
+Text:   |wish and dat cut you short imbecile|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=35, Unlabeled=0
+
+Line 44:
+Text:   |E rise by 11% to 1.77bn.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=24, Unlabeled=0
+
+Line 45:
+Text:   |Christian leaders have finally turned Christianity to religion of jokers, everyone does anyhow and the foolish members follow blindly.Nothing is wrong with his dressing, but someone of his personality shouldn't be seen wearing this.What do I know, once they have money, they start to misbehave. Di biggest music show for di world go happun dis weekend for America.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=268, Pidgin=96, Unlabeled=0
+
+Line 46:
+Text:   |""But di resilience of New Orleans dey matched by di resolve of our kontri.""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=77, Unlabeled=0
+
+Line 47:
+Text:   |Dem done kill my poor Freddie!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=30, Unlabeled=0
+
+Line 48:
+Text:   |In 2015, then Nigeria president Muhammadu Buhari declare im assets as im preach transparency. I dey watch as you wan use your alternate monikers and your goons to LIKE the nonsense you always spill on this space.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=17, Pidgin=195, Unlabeled=0
+
+Line 49:
+Text:   |Sulaiman Bala Idris tok say some pipo go tink say na peace agreement dem dey do wit di bandits, but e no be so. We pass our heartfelt condolences to im family and entire football fraternity.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=190, Unlabeled=0
+
+Line 50:
+Text:   |Fine wine is useless without the bottle and the label on it.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=60, Pidgin=0, Unlabeled=0
+
+Line 51:
+Text:   |Did you also see Fasoroti,  the man against Babalola.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPP|
+Stats:   English=51, Pidgin=2, Unlabeled=0
+
+Line 52:
+Text:   |They block drainage and create static trafficWahab explained the illegal process in which shop owners/ traders had converted the setback of the drainage channels in the markets to stalls had impeded the free flow of stormwater and could lead to serious disease breakouts of Cholera, Diarrhea, typhoid fever, amongst others, saying if each and everyone make good sanitation practices a daily affair in their shops and environs, it would save the citizenry from continuous visit to the hospitals.With these illegal stalls and shops, if proper care is not taken, we can have a major disease outbreak,and these outbreaks can have negative impacts on our health care system, such that we would start undertaking various tests which we can avoid by doing the needful in every corner of our stalls he said.He recalled that the State Government had banned styrofoam over a year ago due to its adverse effects on human health and drainage channels.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=939, Unlabeled=0
+
+Line 53:
+Text:   |Dis one mean say women like me get to work twice as hard to prove dia worth,"" she tok." I will never forget October 8, 2014, in my life!That day, I was supposed to resume at M&B and a construction company.Prior to the October 8 resumption, M&B told me I was going to be posted to the east, with a car attached to the offer as Medical Sales Rep, and that it would be contractual.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=203, Pidgin=176, Unlabeled=0
+
+Line 54:
+Text:   |- Are you crazy?|
+Labels: |EEEEEEEEEEEEEEEE|
+Stats:   English=16, Pidgin=0, Unlabeled=0
+
+Line 55:
+Text:   |-  It was only Troy who was not caught up in the moment.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=56, Pidgin=0, Unlabeled=0
+
+Line 56:
+Text:   |Blair s Labor Party on Thursday won a third straight general election victory|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=77, Pidgin=0, Unlabeled=0
+
+Line 57:
+Text:   |Madam say make you come.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=24, Pidgin=0, Unlabeled=0
+
+Line 58:
+Text:   |I know I've made lots of mistakes. Wetin dey make am look like pesin wey she sabi well well|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=35, Pidgin=56, Unlabeled=0
+
+Line 59:
+Text:   |Three month inside lunatic asylum!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=34, Unlabeled=0
+
+Line 60:
+Text:   |Dis na di categories and pipo wey make di nomination|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=52, Unlabeled=0
+
+Line 61:
+Text:   |MARKETING & ADVERTISING  Social Media Management Starting at 150,000/month  SEO Services starting70,000  150,000+  Facebook, Instagram, TikTok, Google , LinkedIn, twitter Ads(NIgerian Market) Starting from 15,000/weekly per platform  Facebook, Instagram, TikTok, Google , LinkedIn, twitter AdsGlobal targeting(UK, USA, Europe Asia and more!)Starting from $150/weekly per platform  Email Marketing Campaigns Starting at 40,000  Complete Marketing Strategy 500,000  1M+3.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=288, Pidgin=181, Unlabeled=0
+
+Line 62:
+Text:   |It is a  tribal business to some them now and they are trying to fight off "competitors"!|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=89, Pidgin=0, Unlabeled=0
+
+Line 63:
+Text:   |E no good make man de for darkness.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=35, Unlabeled=0
+
+Line 64:
+Text:   |Niger don put strain for dia relationship wit neighbouring kontries like  Nigeria, Ivory Coast, Benin. BEST COLLABORATION|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=46, Pidgin=75, Unlabeled=0
+
+Line 65:
+Text:   |Those guys are no longer needed. You don offend Captain Lydga|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=61, Unlabeled=0
+
+Line 66:
+Text:   |Kansas City bin win one 38-35 thriller for 2023 for Arizona and sometin like dat go go down again very nicely.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=110, Unlabeled=0
+
+Line 67:
+Text:   |Afta dem di MPs don destroy di tins for di conference room, dem now adjourn di vetting of di rest of di two ministers (health and foreign affairs) to Friday 31 January.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=168, Unlabeled=0
+
+Line 68:
+Text:   |As di plane come in to land, air traffic controllers tell di pilots of 38mph (61km/h) gusts and the possibility of a ""slight bump for di glide path"", CNN report.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=163, Unlabeled=0
+
+Line 69:
+Text:   |Best jazz instrumental album E also work as assistant accounts manager, Union Oil Ghana, accountant for Trust Hands Auto, part time teacher for City Business College, teacher for Gomoa Dominase D/A JSS, board member for both Gomoa Senior High Technical School and Petrosol MS and technical director for di Downstream Petroleum Institute.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=136, Pidgin=201, Unlabeled=0
+
+Line 70:
+Text:   |Could it be YBNL all this while?|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=32, Pidgin=0, Unlabeled=0
+
+Line 71:
+Text:   |We suppose dey there.|
+Labels: |PPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=21, Unlabeled=0
+
+Line 72:
+Text:   |defendants face hanging if convicted Police also say dem see evidence of frequent abuse.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=88, Unlabeled=0
+
+Line 73:
+Text:   |written in i dey the same age as that baldy|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=43, Unlabeled=0
+
+Line 74:
+Text:   |please guys please don't just scroll pass.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=42, Unlabeled=0
+
+Line 75:
+Text:   |Oga Potra bin dey very active during di DR Congo mission until a few months ago wen e go back Romania - and dey for wrapped for controversy for di middle of di cancelled presidential election there.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=198, Unlabeled=0
+
+Line 76:
+Text:   |Despite say di plane slide for di runway, Diane Perry say she hear of di crash hen her family call her while she bin dey in line to check her luggage. Answer me!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=161, Unlabeled=0
+
+Line 77:
+Text:   |Brighton don show interest in English centre-back Tosin Adarabioyo, 27, wey bin join Chelsea in July.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEE|
+Stats:   English=16, Pidgin=85, Unlabeled=0
+
+Line 78:
+Text:   |No matter how paranoid or conspiracy-minded you are, what the Nigerian army and Nigeria government is actually doing is worse than you can ever imagine. Police for Abuja bin parade some of dis suspected manhole cover tiffs, for different videos wey bin dey circulate online.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=164, Pidgin=110, Unlabeled=0
+
+Line 79:
+Text:   |vessel was headed to a Muslim religious festival in the town of Tadjoura As long as the purpose is not to reveal things that should be concealed..That said, na una wey dey allow una wives to go visit these new generation pastors I dey pity.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=109, Pidgin=131, Unlabeled=0
+
+Line 80:
+Text:   |It's well. Say no to Owo osole aka money ritual, it does not work.Dear Yoruba boys please stop wasting innocent Yoruba girls' lives in the name of trying to make money, money ritual is nothing but a fallacy|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=24, Pidgin=182, Unlabeled=0
+
+Line 81:
+Text:   |result leaves MAS short of the twothirds needed to control the assembly which will rewrite the constitution|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=107, Pidgin=0, Unlabeled=0
+
+Line 82:
+Text:   |crowd of about 200 people had gathered around Boroujerdi s house to call for the release of the cleric s jailed followers While some dey write condolence messages to im family and loved ones odas still dey joke ontop im death.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=128, Pidgin=98, Unlabeled=0
+
+Line 83:
+Text:   |Better Man|
+Labels: |EEEEEEEEEE|
+Stats:   English=10, Pidgin=0, Unlabeled=0
+
+Line 84:
+Text:   |AS E BE SO CIVIL WAR DON START SO OOOO CAUSE BOYZ SAY IF SHE RESIGN EVERYWHERE GO BURN SO OOOO|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=94, Pidgin=0, Unlabeled=0
+
+Line 85:
+Text:   |A Different Man|
+Labels: |EEEEEEEEEEEEEEE|
+Stats:   English=15, Pidgin=0, Unlabeled=0
+
+Line 86:
+Text:   |paused leaning im head on im hand and dey look the floor A Complete Unknown|
+Labels: |EEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEE|
+Stats:   English=33, Pidgin=42, Unlabeled=0
+
+Line 87:
+Text:   |-  You think I need money so much stone court on that day e go make brain|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPP|
+Stats:   English=58, Pidgin=15, Unlabeled=0
+
+Line 88:
+Text:   |Lovely ........|
+Labels: |PPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=15, Unlabeled=0
+
+Line 89:
+Text:   |Best music film|
+Labels: |PPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=15, Unlabeled=0
+
+Line 90:
+Text:   |Nigeria dey for Group C for di 2025 Africa Cup of Nations wey go happun for Morocco later dis year.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=99, Unlabeled=0
+
+Line 91:
+Text:   |In saner climes, many would have resigned by the Binance guy's allegations which obviously more true than false. But when dem get a gal on de bed, you never see dem again.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=89, Pidgin=82, Unlabeled=0
+
+Line 92:
+Text:   |I hold tight to di sides of im chair and dey grind im teeth|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=59, Unlabeled=0
+
+Line 93:
+Text:   |Victor Osimhen, Nigeria - Napoli (ITA)|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEE|
+Stats:   English=5, Pidgin=33, Unlabeled=0
+
+Line 94:
+Text:   |Once the six slots are full, any attempt to place ads on the same section by other advertisers will result in a pending placement.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=130, Pidgin=0, Unlabeled=0
+
+Line 95:
+Text:   |- Each was holding a knapsack.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=30, Pidgin=0, Unlabeled=0
+
+Line 96:
+Text:   |Di Norwegian striker get only 3 goals in di last 11 premier league games.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=73, Unlabeled=0
+
+Line 97:
+Text:   |She shake her head and force smile wey light up her pale face|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=61, Unlabeled=0
+
+Line 98:
+Text:   |Tom nor wear gray suit Best hip-hop act - Bashy|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEE|
+Stats:   English=11, Pidgin=36, Unlabeled=0
+
+Line 99:
+Text:   |Who invite you?|
+Labels: |EEEEEEEEEEEEEEE|
+Stats:   English=15, Pidgin=0, Unlabeled=0
+
+Line 100:
+Text:   |Whas de matter? Shame unto this lawmakers.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=42, Pidgin=0, Unlabeled=0
+
+Line 101:
+Text:   |Sunday, 9 February 30 GMT|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=25, Pidgin=0, Unlabeled=0
+
+Line 102:
+Text:   |peacekeepers and the interim government have been struggling to contain violence in Haiti since Mr Aristide was removed from power in February 2004|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=147, Pidgin=0, Unlabeled=0
+
+Line 103:
+Text:   |Dia plan na to issue new travel passport wey go tally wit dia withdrawal from Ecowas.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=85, Unlabeled=0
+
+Line 104:
+Text:   |- My brother, Abele, is in year one there.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=42, Unlabeled=0
+
+Line 105:
+Text:   |Although Rwanda bin dey consistently deny backing di rebels, dia response don shift to a more defensive one, wia goment tok-tok pipo say fighting near dia border na security threat. Is it education, religion, democracy?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEE|
+Stats:   English=10, Pidgin=209, Unlabeled=0
+
+Line 106:
+Text:   |He knew his man.|
+Labels: |EEEEEEEEEEEEEEEE|
+Stats:   English=16, Pidgin=0, Unlabeled=0
+
+Line 107:
+Text:   |Browne has become the newest inductee in the Songwriters Hall Of Fame|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=69, Pidgin=0, Unlabeled=0
+
+Line 108:
+Text:   |These are parts of what made these people billionaires in fraudulent activities.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=80, Pidgin=0, Unlabeled=0
+
+Line 109:
+Text:   |You can either be a 30year old graduate by then, or be a 30year old who allowed what people would think make him not pursue his desire to get a degree. My siblings and close friends are all graduates, except me.Sometimes I get shy when I'm around them, and it makes me feel sad.|
+Labels: |EEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=8, Pidgin=270, Unlabeled=0
+
+Line 110:
+Text:   |Say no to Owo osole aka money ritual, it does not work.Dear Yoruba boys please stop wasting innocent Yoruba girls' lives in the name of trying to make money, money ritual is nothing but a fallacyI swear|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=202, Unlabeled=0
+
+Line 111:
+Text:   |Di award go specially recognise di 'Rookie of di year' for dia excellence performance in di music industry in di past year.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=123, Unlabeled=0
+
+Line 112:
+Text:   |You still wan to go back and lissen to de ol man lecture?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=57, Unlabeled=0
+
+Line 113:
+Text:   | While condemning illicit drug trade, Obi emphasized the importance of fairness in law enforcement and urged for transparency during shop inspections, involving store owners in the process. Him job Na to write for wall nii dem done pay already|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=199, Pidgin=44, Unlabeled=0
+
+Line 114:
+Text:   |URASHI STATE from South East geopolitical zone.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=47, Unlabeled=0
+
+Line 115:
+Text:   |E start di BGL Insurance Group and e be good friend of late South African statesman Nelson Mandela.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=99, Unlabeled=0
+
+Line 116:
+Text:   |No industrialization. Abeg make you just do di essential repairs|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=64, Unlabeled=0
+
+Line 117:
+Text:   |""For Trump, di more chaos, di more im dey flood di zone, di less pipo go actually fit focus on. Netherlands|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=108, Unlabeled=0
+
+Line 118:
+Text:   |Dey jus chop your money for nothin.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=35, Unlabeled=0
+
+Line 119:
+Text:   |If you wan reach up high make you use ya own legs It will not be like 2023 result where Obi the tribalist, took 98% in the SE.Bro , ignore those people.How many years have they been sounding same?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=151, Pidgin=45, Unlabeled=0
+
+Line 120:
+Text:   |It's not just your environment that should dictate your dressing.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=65, Pidgin=0, Unlabeled=0
+
+Line 121:
+Text:   |E no dey clear wetin cause di incident, analysts dey suggest say weather fit don played a role, or di aircraft hit something. You have continued to get better with the passage of the years.As you mark your 54th birthday, I wish you a happy birthday and more years in good health in the service of our country and humanity.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=196, Pidgin=126, Unlabeled=0
+
+Line 122:
+Text:   |na Thursday e be dat|
+Labels: |PPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=20, Unlabeled=0
+
+Line 123:
+Text:   |Yes, to keep you from escaping. - You be wayo man plain and simple.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=67, Unlabeled=0
+
+Line 124:
+Text:   |Hxhx|
+Labels: |PPPP|
+Stats:   English=0, Pidgin=4, Unlabeled=0
+
+Line 125:
+Text:   |According RCA records, ""dis song dey pay homage to Tems childhood and upbringing.""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=84, Unlabeled=0
+
+Line 126:
+Text:   |YBNL gambled on Asake, poured resources into his career, and turned him into a global brand. Gaga bin dey surrounded by first responders as she play a black baby grand piano for di middle of di road.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=93, Pidgin=106, Unlabeled=0
+
+Line 127:
+Text:   |Jacobs and Tolu murmured agreement.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=35, Unlabeled=0
+
+Line 128:
+Text:   |Mina no look like say she see dem You know I intentionally pretended not to know the motivating factor behind his post.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=85, Pidgin=34, Unlabeled=0
+
+Line 129:
+Text:   |I knew about it at the final stage of the interview.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=52, Pidgin=0, Unlabeled=0
+
+Line 130:
+Text:   |Di rebels tok say most of di previous deals to end di fighting no dey respected  Di group get dia name from one peace agreement wey dem sign on 23 March 2009.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=158, Unlabeled=0
+
+Line 131:
+Text:   |""Mighty Iroko tree"" don fall. Felicity Jones in The Brutalist|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEE|
+Stats:   English=13, Pidgin=50, Unlabeled=0
+
+Line 132:
+Text:   | The palace is already collaborating with security agencies to ensure that those using hotels for criminal hideouts are exposed, he asserted.The Asagba reaffirmed his support for government efforts in tackling insecurity but stressed that traditional institutions must also take an active role in protecting their communities.We stand with the government at all times, but there comes a moment when we must be more proactive.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=425, Pidgin=0, Unlabeled=0
+
+Line 133:
+Text:   |- My father should be coming any minute now and he would know.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=62, Pidgin=0, Unlabeled=0
+
+Line 134:
+Text:   |That's where they always hide.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEPP|
+Stats:   English=28, Pidgin=2, Unlabeled=0
+
+Line 135:
+Text:   |Leave am make e tok judge|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=25, Unlabeled=0
+
+Line 136:
+Text:   |Ok|
+Labels: |PP|
+Stats:   English=0, Pidgin=2, Unlabeled=0
+
+Line 137:
+Text:   |If your ads are attractive and well targeted, people will notice them without any animations. If to say na TJ still be don, if to say they no expel am, he for collect Harry stuff,even maybe the dollars without any such stress.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=42, Pidgin=184, Unlabeled=0
+
+Line 138:
+Text:   |President Bola Tinubu has called on the African Union Peace and Security Council (AUPSC) to prioritize the establishment of a Combined Maritime Task Force to enhance security in the Gulf of Guinea.Speaking at the 38th Ordinary Session of the Assembly of the African Union (AU) Heads of State and Government in Addis Ababa, Ethiopia, Tinubu expressed NigeriaTMs readiness to host the headquarters of the proposed task force in Lagos.Delivering NigeriaTMs position on behalf of the President, Minister of Foreign Affairs, Ambassador Yusuf Tuggar, emphasized the urgent need for collective maritime security efforts."The time has come for the African Union Peace and Security Council to prioritise the creation of a Combined Maritime Task Force for the Gulf of Guinea.I wish to announce that Nigeria would like to host the headquarters of the task force in Lagos."Nigeria Signs Strategic Agreement with AUTinubuTMs call for a maritime task force coincided with NigeriaTMs signing of a landmark agreement with the AU to provide Strategic Sea Lift Services for peace support operations, natural disaster response, humanitarian actions, and personnel movement.NigeriaTMs Minister of Defence, Badaru Abubakar, signed the agreement, under which the Nigerian Navy will provide a vessel for these operations on a cost-recovery basis.The signing ceremony was witnessed by Attorney-General and Justice Minister Prince Lateef Fagbemi, Foreign Affairs Minister Ambassador Yusuf Tuggar, Chief of Naval Staff Vice Admiral Emmanuel Ikechukwu Ogalla, and Director-General of the Nigerian Intelligence Agency, Ambassador Muhammed Muhammed.Ambassador Bankole Adeoye, the AU Commissioner for Political Affairs, Peace, and Security, signed on behalf of the African Union.Regional Security and Counter-Terrorism InitiativesPresident Tinubu commended the AUPSC for adopting recommendations from a recent high-level security meeting, including the decision to upgrade NigeriaTMs National Counter-Terrorism Centre into a Regional Counter-Terrorism Centre.He also welcomed the renewal of the mandate for the Multinational Joint Task Force (MNJTF), which combats terrorism and violent extremism in the Lake Chad Region.Expressing concerns over LibyaTMs continued instability and its spillover effects on the Sahel, Tinubu urged the AU to support initiatives aimed at restoring law and order in the North African country."The Sahel cannot enjoy peace as long as Libya does not," he warned.He further highlighted the insecurity plaguing countries in democratic transition, including Sudan, Burkina Faso, Mali, Niger, South Sudan, and Gabon, calling for collective AU intervention.Push for African-Led Peace Operations and Economic StabilityTinubu advocated for leveraging UN Security Council Resolution 2719 to support AU-led peace operations and warned against the increasing involvement of extra-continental military forces, including private military contractors, in AfricaTMs security matters.The President also reaffirmed NigeriaTMs commitment to the African Standby Force, urging AU members to finalize the draft Memorandum of Understanding for its full operationalization.On economic matters, Tinubu backed the establishment of an African-led Credit Rating Agency (ACRA) to provide fairer and more transparent assessments of African economies, countering biases often observed in global rating agencies."An independent African-led rating agency will help provide fairer assessments of African economies and reduce the bias often observed in existing global rating agencies," Tinubu stated.He commended the African Union, the African Development Bank (AfDB), and the Specialized Technical Committee (STC) on Finance for advancing the Africa Financing Stability Mechanism (AFSM), which aims to address rising borrowing costs, debt burdens, and limited access to affordable long-term financing."The establishment of the AFSM underscores the collective commitment of member states in addressing financial vulnerabilities and fostering economic resilience across the continent," he said.Tinubu concluded by emphasizing the importance of adopting the AFSM to strengthen financial stability and enhance AfricaTMs resilience against external economic shocks.The Bureau Newspaper|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=4150, Pidgin=97, Unlabeled=0
+
+Line 139:
+Text:   |Good God e dey cry|
+Labels: |PPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=18, Unlabeled=0
+
+Line 140:
+Text:   |What I got to waste time dere for?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=34, Unlabeled=0
+
+Line 141:
+Text:   |E get military background and don do Nato tours for Afghanistan wit di Romanian army. This is rubbish in 20th century.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=118, Unlabeled=0
+
+Line 142:
+Text:   |DR Congo bin contract di Romanians to help dia army fight di Rwanda-backed M23 rebels, wey say dem dey fight to protect di rights of DR Congo minority ethnic Tutsis.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=165, Unlabeled=0
+
+Line 143:
+Text:   |Jane you bad pikin waka go lie down|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=35, Unlabeled=0
+
+Line 144:
+Text:   |Without hesitation, she dropped her food and rushed off to meet her Facebook crush.That was the last time anyone saw her alive.How She Was FoundWhen Yetunde didnTMt return home, her family grew anxious. She no get wahala wit cousin Georgiana company|
+Labels: |PPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=164, Pidgin=85, Unlabeled=0
+
+Line 145:
+Text:   |""Na dem start di war for 2014.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=31, Unlabeled=0
+
+Line 146:
+Text:   |Not awarded|
+Labels: |PPPPPPPPPPP|
+Stats:   English=0, Pidgin=11, Unlabeled=0
+
+Line 147:
+Text:   |Di members express dia shock over di invasion wen dem gada for plenary.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=71, Unlabeled=0
+
+Line 148:
+Text:   |Dem go wait for di winners of di eight two-legged knockout play-off ties wey go feature di clubs wey rank from ninth to 24th.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=125, Unlabeled=0
+
+Line 149:
+Text:   |Can't wait for Hushpuppi to come back|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=37, Unlabeled=0
+
+Line 150:
+Text:   |She neva make any comment di death of pipo wey die during di kasala.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=68, Unlabeled=0
+
+Line 151:
+Text:   |his Akpabio cannot pass in NA..and he wants Arewa to trust him for a second term.. exact number of militant casualties is still not clear|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=110, Pidgin=27, Unlabeled=0
+
+Line 152:
+Text:   |What a balabluBlue-blue Bulaba|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=30, Pidgin=0, Unlabeled=0
+
+Line 153:
+Text:   |says officials frisked and physically threatened him And you kin taste what e use to chop every night before he come back an marry me proper.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=57, Pidgin=84, Unlabeled=0
+
+Line 154:
+Text:   |We will go after them and retrieve what they have stolen from Edo people.They will be made to pay for it.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=105, Pidgin=0, Unlabeled=0
+
+Line 155:
+Text:   |Man in a dilemma as he shares how his girlfriend reacted after he used a different phone to text her.According to the man, he had wanted to test the loyalty of his girlfriend.He used a different phone to text her and pretended to be a customer.Two days later, he asked for them to meet and spend some time together, and to his surprise the lady agreed.The man is sad and wonders whether thatTMs a red flag.His words read Sir D, thank you for all you do ,I texted my babe on a different number and acted like I wanted to order something from her in just two days I asked her if we could meet and spend time together she agreed sentaddress for me to come pick her up.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=638, Pidgin=27, Unlabeled=0
+
+Line 156:
+Text:   |Prosecutors allege say na at dat point, Mr Mayers again pull out di gun and fire multiple shots, with one bullet wey dem sat touch Mr Ephron knuckles.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=150, Unlabeled=0
+
+Line 157:
+Text:   |So I dey wait make goment open di coroner inquest make I know wetin kill Mohbad,"" na so e tok.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=95, Unlabeled=0
+
+Line 158:
+Text:   |-  Well, he did not waste any time, did he - Wilhelm had threatened to take the matter up with his cousin, Yibrilwas that it|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=124, Pidgin=0, Unlabeled=0
+
+Line 159:
+Text:   |Im sorry, Jagua -  He held her arm tightly Like Rwanda, Uganda don enta eastern DR Congo before claiming say e dey protect im borders.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=43, Pidgin=91, Unlabeled=0
+
+Line 160:
+Text:   |And you run after any man with car or money!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=44, Unlabeled=0
+
+Line 161:
+Text:   |Nawa ooo Di British award show bin start for 1996 and don host plenti artists wey include Beyonce, Rihanna, Sade, Lionel Richie among odas.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=139, Unlabeled=0
+
+Line 162:
+Text:   |30 days.May 4,804,141 unique visitors, 29,680,083 visits.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=57, Pidgin=0, Unlabeled=0
+
+Line 163:
+Text:   |For Asake to exit now, just as the label is poised to recoup its investments and enjoy the fruits of their labor, feels rather ungrateful.The Double Standards of SuccessItTMs hard to ignore the hypocrisy that often surrounds conversations like this.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=130, Pidgin=119, Unlabeled=0
+
+Line 164:
+Text:   |like a whole caskful as e quickly refreshed himself but i go by|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=63, Unlabeled=0
+
+Line 165:
+Text:   |30 days.May 4,334,289 unique visitors, 29,172,768 visits. Wetin we go do again?|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=58, Pidgin=21, Unlabeled=0
+
+Line 166:
+Text:   |police arrested the British citizen in Rome a week after the July 21 attacks which caused no fatalities but brought chaos to London two weeks after suicide bombers killed 52 people in the British capital Make dem no come dey use 100k for data and then pay tutors 15k per month ooo|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=196, Pidgin=84, Unlabeled=0
+
+Line 167:
+Text:   |The signs were clear when Lungu Boy, his third project, dropped in 2024.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=72, Unlabeled=0
+
+Line 168:
+Text:   |Although di gunfire and explosions for Goma don die down small, not all establishments dey back to business as normal.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=118, Unlabeled=0
+
+Line 169:
+Text:   |Tinubu must contest ,must ! <You no go wait till dem finish?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=32, Pidgin=28, Unlabeled=0
+
+Line 170:
+Text:   |Why you tell me you don love her?|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=33, Pidgin=0, Unlabeled=0
+
+Line 171:
+Text:   |CPI rebasing na exercise wen dem dey carry out to make sure say di methodological basis upon which dem dey construct di CPI dey strong, logical and consistent with best practices.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=179, Pidgin=0, Unlabeled=0
+
+Line 172:
+Text:   |Arsenal fit meet Celtic or Manchester City for dat round also.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=62, Pidgin=0, Unlabeled=0
+
+Line 173:
+Text:   |As dem no invite dem to di summit, Oga Zelensky say Trump ""dey live for disinformation space"" wey Russia create. of a delegation from the Congress of South African Trade Unions COSATU say they have been denied entry to Zimbabwe as they arrived in the capital Harare for a factfinding mission early Wednesday|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=236, Pidgin=73, Unlabeled=0
+
+Line 174:
+Text:   |Tinubu is known to be the leader of thugs, and thugs are anti democratic. I nor kwn waytin to  tell this Op.The lady he's praying for also came to the gym with excising outfit.Because he's going to a public gym, she should wear agbada, because he has the money, he should have had a private gym in this house when he's not a sportsman. Abeg make some of una try to dey mind una business.Hypocrite too many among us, we come kwn this Bible pass the people when introduce this religion to us.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEE|
+Stats:   English=102, Pidgin=388, Unlabeled=0
+
+Line 175:
+Text:   |Opportunity for Fireboi to get attention from YBNL boss. Dem be three wey form di group, himself and two odas - Blackface and Faze.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=131, Pidgin=0, Unlabeled=0
+
+Line 176:
+Text:   |One peace process, wey Angola facilitate wey involve Rwanda and DR Congo, bin result inside ceasefire deal last year, however e no last and di fighting start again.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=111, Pidgin=53, Unlabeled=0
+
+Line 177:
+Text:   |of the meeting have not been released She chop all him money finish and begin talk rot.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=87, Unlabeled=0
+
+Line 178:
+Text:   |""Like a Bird""  Sing Sing|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=26, Unlabeled=0
+
+Line 179:
+Text:   |say the raid does not imply the politician himself is involved in illegal activity|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEE|
+Stats:   English=39, Pidgin=43, Unlabeled=0
+
+Line 180:
+Text:   |Prime Minister Shaukat Aziz has arrived in New Delhi for talks with Indian leaders to review the ongoing peace process between the two neighbors|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=58, Pidgin=86, Unlabeled=0
+
+Line 181:
+Text:   |US President Donald Trump don tok say e go cut all future funding to South Africa sake of accuse say di kontri dey take pipo land and dey treat ""certain classes of pipo very bad"". 209,513,873 pageviews.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=62, Pidgin=142, Unlabeled=0
+
+Line 182:
+Text:   |E remain IPOB and ESN to join...Igbo amaka|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=42, Unlabeled=0
+
+Line 183:
+Text:   ||
+Labels: ||
+Stats:   English=0, Pidgin=0, Unlabeled=0
+
+Line 184:
+Text:   ||
+Labels: ||
+Stats:   English=0, Pidgin=0, Unlabeled=0
+
+Line 185:
+Text:   |says the wounded soldiers were taken to a medical facility for treatment|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=72, Unlabeled=0
+
+Line 186:
+Text:   |Nneka Achapu, one Texas-based US-Africa policy strategist, tok say dis na becos pipo see di Mediterranean crossing go Europe as too dangerous. That useless group of people that just arrived UK in the last 1 to 7 years.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=218, Unlabeled=0
+
+Line 187:
+Text:   |I come to beg you some favour. Di Biden administration bin argue say China fit use TikTok as tool for spying and political manipulation.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=136, Unlabeled=0
+
+Line 188:
+Text:   |Bifor tourists fit enta and leave di hotel wit ease, but now heavily armed members of di Panamanian National Aeronaval Service don enforce strict security measures inside and outside di building.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=195, Unlabeled=0
+
+Line 189:
+Text:   |But US-Africa policy strategist, Nneka Achapu, tok say di situation fit be chance for di US African community to show dia resilience.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPP|
+Stats:   English=71, Pidgin=62, Unlabeled=0
+
+Line 190:
+Text:   |I was drafted to run for president. Since I lef you for Bagana we never seen.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=77, Unlabeled=0
+
+Line 191:
+Text:   |For inside di emotional video wey last for about three minutes, Mercy allege say e bin bully and threaten her, she add say na becos of her safety she relocate from Lagos to Port Harcourt, Rivers state as e bin threaten to destroy her musical career.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=196, Pidgin=53, Unlabeled=0
+
+Line 192:
+Text:   |Per click?|
+Labels: |EEEEEEEEEE|
+Stats:   English=10, Pidgin=0, Unlabeled=0
+
+Line 193:
+Text:   |- Unless we Africans drive all dis foreign firm commot... olygamy no be for me,"" she tok for her Instagram page.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=57, Pidgin=56, Unlabeled=0
+
+Line 194:
+Text:   |Insecurity from a bitter soul is all I see here.She's trying to ridicle those wit first class degree.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEE|
+Stats:   English=7, Pidgin=94, Unlabeled=0
+
+Line 195:
+Text:   |Death to all terrorists and their sympathizers The condolence visit from the federal lawmakers to Amaewhule is a welcome development.These 27 boys don too suffer and needs the visit|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=71, Pidgin=110, Unlabeled=0
+
+Line 196:
+Text:   |What does private candidate mean WAEC, pls expantiate further. Di Steyn Foundation, bin establish through Steyn City Properties, also support poor townships.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=157, Unlabeled=0
+
+Line 197:
+Text:   |E never reach at all at all|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=27, Unlabeled=0
+
+Line 198:
+Text:   |Dem born Tems for July 23, 1996.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=32, Unlabeled=0
+
+Line 199:
+Text:   ||
+Labels: ||
+Stats:   English=0, Pidgin=0, Unlabeled=0
+
+Line 200:
+Text:   |have been more than 30 missile strikes targeting alleged militants in Pakistan since August Anybody dey pain|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=108, Unlabeled=0
+
+Line 201:
+Text:   |Security operatives for Anambra State, southeast Nigeria, don arrest one ogbonge traditional priest, Ekene Igboekweze, popularly known as Eke Hit.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=61, Pidgin=85, Unlabeled=0
+
+Line 202:
+Text:   |Have no fear, you safe wit me.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=30, Pidgin=0, Unlabeled=0
+
+Line 203:
+Text:   |Goma residents full di streets a few miles from di border with Rwanda - commuters dey go work, hawkers dey sell goods by di roadside and taxi drivers dey hustle customers.|
+Labels: |EEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=22, Pidgin=149, Unlabeled=0
+
+Line 204:
+Text:   |My sister, make you no worry yourself.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=38, Unlabeled=0
+
+Line 205:
+Text:   |And oh how happy I dey to finally find am|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=41, Unlabeled=0
+
+Line 206:
+Text:   |Roman Catholic Archbishop of Westminster Cardinal Cormac MurphyOConnor presided over the funeral mass|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=101, Unlabeled=0
+
+Line 207:
+Text:   |Beast u.EthicsAnyee!!|
+Labels: |PPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=21, Unlabeled=0
+
+Line 208:
+Text:   |Is this how we want to grow as a nation? Some migrants raise dia arms and cross dem at di wrists to show say dem dey deprive dem of dia freedom.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=144, Unlabeled=0
+
+Line 209:
+Text:   |she shrugged.|
+Labels: |PPPPPPPPPEEEE|
+Stats:   English=4, Pidgin=9, Unlabeled=0
+
+Line 210:
+Text:   |Ecowas for dia announcement tok say dem go keep di doors open sake of spirit of regional solidarity.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=100, Pidgin=0, Unlabeled=0
+
+Line 211:
+Text:   |You dey joke|
+Labels: |PPPPPPPPPPPP|
+Stats:   English=0, Pidgin=12, Unlabeled=0
+
+Line 212:
+Text:   |Had four offers, picked the best and rejected the rest|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=54, Unlabeled=0
+
+Line 213:
+Text:   |Middlesbrough dey advanced toks to sign Hull City left-back Ryan Giles, wey make 45 appearances for Boro while on loan from Wolves in dia 22/23 season.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=151, Unlabeled=0
+
+Line 214:
+Text:   |Terrorist youths.|
+Labels: |PPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=17, Unlabeled=0
+
+Line 215:
+Text:   |But oga, mout no fit talk am, make you come see for yourself. For example, antiretrovirals that people get free of charge in government hospitals, who made that possible?Plus, USAID funds many SMEs in Nigeria.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=175, Pidgin=34, Unlabeled=0
+
+Line 216:
+Text:   |All my life fit don be no Mr Carton|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=35, Pidgin=0, Unlabeled=0
+
+Line 217:
+Text:   |Abeg make you sidon her waka go siddon for evrihwhere evrihwhere|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=64, Pidgin=0, Unlabeled=0
+
+Line 218:
+Text:   |Small drop of ogume must dey this one.. in reconstruction fighting corruption restructuring domestic industry and attracting foreign aid and investment are key to future growth|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=176, Pidgin=0, Unlabeled=0
+
+Line 219:
+Text:   |Abeg enta|
+Labels: |EEEEEEEEE|
+Stats:   English=9, Pidgin=0, Unlabeled=0
+
+Line 220:
+Text:   |Ikem could understand well enough the roots of the paradox in which a mans personal choice to live simply without such trimmings as chaueurs could stamp him not as a modest and exemplary citizen but as a mean-minded miser denying a livelihood to one unemployed driver out of hundreds and thousands roaming the streetsa paradox so perverse in its implications as to justify the call for the total dismantling of the grotesque world in which it growsand ourishes.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=310, Pidgin=151, Unlabeled=0
+
+Line 221:
+Text:   |Tia say, but do you want me to speak to her about what happened with her husband? Ok|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=84, Pidgin=0, Unlabeled=0
+
+Line 222:
+Text:   |scientists warn that in about the last decade the world s sea ice has melted faster than expected|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=97, Unlabeled=0
+
+Line 223:
+Text:   |Some electricity and cable workers too dey use manholes to access underground cables and wires.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=95, Unlabeled=0
+
+Line 224:
+Text:   |There were no collarbones to be seen when she faced him, and when she turned her back at him, stepping out of her clothes, the voluptuousness of her big moulded hips seduced him and made his anger sharpen at his own weakness for her.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=110, Pidgin=123, Unlabeled=0
+
+Line 225:
+Text:   |""We as team dey follow our ogbonge fans to dey pained about di results from last night.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPP|
+Stats:   English=74, Pidgin=14, Unlabeled=0
+
+Line 226:
+Text:   |Brazil wia Felipe come from get di highest rates of social media use for di world.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=82, Unlabeled=0
+
+Line 227:
+Text:   |Life goes on Dem beat Morocco for di round of 16, before Williams' shoot-out heroics make dem baet Cape Verde and DR Congo.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPP|
+Stats:   English=73, Pidgin=50, Unlabeled=0
+
+Line 228:
+Text:   |YUPPE (SOUTH AFRICA)|
+Labels: |PPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=20, Unlabeled=0
+
+Line 229:
+Text:   |Very good|
+Labels: |PPPPPPPPP|
+Stats:   English=0, Pidgin=9, Unlabeled=0
+
+Line 230:
+Text:   |American hostage Jill Carroll 28 arrived at Ramstein Air Base in Germany Saturday as she headed home to the United States after 82 days in captivity in Iraq|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=156, Unlabeled=0
+
+Line 231:
+Text:   |Are we picking up the Biden garbage Trump dumped?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=49, Unlabeled=0
+
+Line 232:
+Text:   |Popular Nigerian singer Habeeb Okikiola, wey pipo sabi as Portable, don tok say im get mental problem. Imagine empowering women to be the lords over their husbands in the UK.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=174, Unlabeled=0
+
+Line 233:
+Text:   |Ade dancer,smart up or you'll be butted out in no time! Dis win help City finish 22 for di league table, just two places above di last qualification position, as dem manage to qualify for di play off stage to see weda dem fit reach di round of 16.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPP|
+Stats:   English=91, Pidgin=156, Unlabeled=0
+
+Line 234:
+Text:   |- Plenty pub- houses.|
+Labels: |PPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=21, Unlabeled=0
+
+Line 235:
+Text:   |Outbursts from defendants during trials no common, especially in front of jury. Why you no go nd me here?|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=105, Unlabeled=0
+
+Line 236:
+Text:   |Dis include 64% increase in matchday revenue to 4.3m wey bin increase sake of di fact say dem host Women Super League (WSL) games for Emirates Stadium.|
+Labels: |PPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=50, Pidgin=101, Unlabeled=0
+
+Line 237:
+Text:   |We stand with Trump, and of course, the able Netanyahu who is the nemesis of the jihadists and all islamic terrorists Even pass religion, Kenyan mental health advocate Amisa Rashid tink say cultural factors like language also get role to play for di stigma.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=154, Pidgin=103, Unlabeled=0
+
+Line 238:
+Text:   |says one soldier was slightly wounded during the operation|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=58, Unlabeled=0
+
+Line 239:
+Text:   |DR Congo Foreign Minister Thrse Kayikwamba Wagner don write to di owners of Arsenal and PSG and to Bayern president Herbert Hainer to ""kwesion di morality"" of di deals. Czech Republic is a stable and prosperous market economy which harmonized its laws and regulations with those of the EU prior to its EU accession in 2004|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=287, Pidgin=37, Unlabeled=0
+
+Line 240:
+Text:   |She say im bin no really understand wetin dey happun, bifor im know wetin dey happun di girl begin ""beat am"", she tok."|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=121, Pidgin=0, Unlabeled=0
+
+Line 241:
+Text:   |If a man is assaulted, what stops him from reporting the case like any other?The rationale for providing expedited and enhanced protection for women and children is the fact that statistically, men are more likely to physically abuse women, and physiologically, a women are far likelier to get seriously hurt by men rather than vice versa.Again, if you have a woman who abuses you, you have every right to walk into a police state and seek justice too.If they are silly, what does your own comments make you? Best alternative music performance|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEPPPPP|
+Stats:   English=162, Pidgin=381, Unlabeled=0
+
+Line 242:
+Text:   |You won see me den, only now when you strugglin.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=48, Unlabeled=0
+
+Line 243:
+Text:   |Best R&B song She tok say wen she enta di hotel to offer help as Farsi translator, dem tok say dem don already help dem, although according to sources wey dey inside di hotel, e no be true, she tok.|
+Labels: |PPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=194, Pidgin=4, Unlabeled=0
+
+Line 244:
+Text:   |Last month, President Cyril Ramaphosa sign into law one bill wey go allow land seizures without compensation for certain circumstances.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=135, Pidgin=0, Unlabeled=0
+
+Line 245:
+Text:   |Yussif Issaka Jajah na MP for di Ayawaso North constituency for two terms now.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=40, Pidgin=38, Unlabeled=0
+
+Line 246:
+Text:   |I know I've made lots of mistakes. everywhere dey happen at once|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=64, Unlabeled=0
+
+Line 247:
+Text:   |The world favors conservative ideology, same way as Nature/EvolutionI have nothing against seeing people of different culture/Race trying really hard to sanitize their own land and stopping infiltration of wanderers into their spaceI even hope that locally, we can start gravitating towards something like this, either covertly or officially in form of a regional Government/Ethnic Nation|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=73, Pidgin=315, Unlabeled=0
+
+Line 248:
+Text:   |For knowledge he always dey try to form big for small money|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=59, Pidgin=0, Unlabeled=0
+
+Line 249:
+Text:   |Best grime act - Scorcher|
+Labels: |EEEEPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=4, Pidgin=21, Unlabeled=0
+
+Line 250:
+Text:   |""I tink in general we avoid human contact in a way wey we bin no dey do."""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=76, Unlabeled=0
+
+Line 251:
+Text:   |Lol....wonder what he's upto.....But anyways, kudos to him for his support and God bless him...!!|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=97, Unlabeled=0
+
+Line 252:
+Text:   |Ogbeni wayray drop your banny number make men order SOMETHING for her hand|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=74, Unlabeled=0
+
+Line 253:
+Text:   |And now she saw that England had widened the gulf between them.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=63, Unlabeled=0
+
+Line 254:
+Text:   |I beg you  let me tie my wrapper properly before entering the street.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=69, Unlabeled=0
+
+Line 255:
+Text:   |Joseph Aloba for exclusive interview wit BBC Pidgin accuse authorities say dem dey play wit di case and no wan allow justice take im course.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEE|
+Stats:   English=14, Pidgin=126, Unlabeled=0
+
+Line 256:
+Text:   |But di BBC don discover evidence say dem bin don get continuos warnings over several years say di scheme, wey goment set up and funded by various oil firms to di tune of $1bn (805m), don dey suffer from different issues.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPP|
+Stats:   English=207, Pidgin=13, Unlabeled=0
+
+Line 257:
+Text:   |Obi is always excited by the news of death.The last time I read about him, he was at a funeral somewhere.You never see him at weddings.Obi no dey go where celebration dey.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=171, Unlabeled=0
+
+Line 258:
+Text:   |Iya will die than to betray your mother, he say. Oyetola is still pained for loosing election.the weakling should wait for the next election and try his luck.So oyetola is the appeal court JudgeDid you even read the post at all|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=123, Pidgin=104, Unlabeled=0
+
+Line 259:
+Text:   |without dem how laws or arts|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=28, Pidgin=0, Unlabeled=0
+
+Line 260:
+Text:   |""We dey work wit local officials to help pipo wey dey affected, supporting di pipo wey voluntary wan return and identifying safe alternatives for odas,"" e tok.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=21, Pidgin=140, Unlabeled=0
+
+Line 261:
+Text:   |""Wen dem land, everybody dey call dem Russian,"" Fiston Mahamba, co-founder of disinformation group Check Congo, told the BBC.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEE|
+Stats:   English=10, Pidgin=117, Unlabeled=0
+
+Line 262:
+Text:   |Sha, theyTMre all kids to Ned.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=30, Pidgin=0, Unlabeled=0
+
+Line 263:
+Text:   |Obasa is a checkmate for Sanwo.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=31, Pidgin=0, Unlabeled=0
+
+Line 264:
+Text:   |Start businesses with little or no capital and achieve high profit yields.... ""Troops and and state-of-di-art military equipment from Rwanda bin support di M23 rebels and dem manage to reach our positions around di city of Goma,"" Constantin Timofti, wey dem describe as co-ordinator for di group, tell Romanian TVR channel on Monday.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=211, Pidgin=124, Unlabeled=0
+
+Line 265:
+Text:   |Which high-ranking government official will want to collect bribe and feel the need to tell you he needs the bribe for his presidential aspirations come 2027.If an NSA wants a bribe, why does he need to mention what he needs the bribe forThe Indian man is telling porkies. In just two weeks, tori be say thousands of pipo don dey killed and di fighting don turn war of words between DR Congo and dia neighbour, Rwanda.|
+Labels: |PPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=335, Pidgin=83, Unlabeled=0
+
+Line 266:
+Text:   |Appeal court of justice judgment stands, All the elected Apc LG chairmen will resume fully tomorrow in their various secretariats|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=38, Pidgin=91, Unlabeled=0
+
+Line 267:
+Text:   |When none of them said a word, Moziz continued, De first thing we go ask am to do na to print money for us.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=107, Unlabeled=0
+
+Line 268:
+Text:   |Best alternative music album|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=28, Unlabeled=0
+
+Line 269:
+Text:   |She be di owner of Shoes by Flora.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=34, Unlabeled=0
+
+Line 270:
+Text:   |He was calm, well-liked, and had a future, yet something deeper troubled himsomething no one noticed.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=35, Pidgin=66, Unlabeled=0
+
+Line 271:
+Text:   |Mineral products, like petroleum oil and gas, account for 90% of exports from Nigeria,  most of which dey come from di Niger Delta region.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=138, Pidgin=0, Unlabeled=0
+
+Line 272:
+Text:   |And he dey gym houseWe no dey like women with Big Nyash and Breast wey go distract the public.Even if na someone like tinubu wan gym, shey e go wear longsleeve and trowserAny woman wey this dressing turn on na sex addict or ashawo|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=107, Pidgin=123, Unlabeled=0
+
+Line 273:
+Text:   |for independence during the 1980s and early 1990s ended in the 1998 Noumea Accord which over a period of 15 to 20 years will transfer an increasing amount of governing responsibility from France to New Caledonia|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=211, Unlabeled=0
+
+Line 274:
+Text:   |warned the Palestinian Authority not to try to disarm the militant groups|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=73, Unlabeled=0
+
+Line 275:
+Text:   |""Na wayo wey dem play so dat more money go enta into di pot and end up in di pockets of politicians and oda pipo in power.""|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=125, Unlabeled=0
+
+Line 276:
+Text:   |Di video dey come afta police declare Portable wanted on Monday night sake of allege assault on govment officials.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEE|
+Stats:   English=9, Pidgin=105, Unlabeled=0
+
+Line 277:
+Text:   |There could be truth in this.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=29, Pidgin=0, Unlabeled=0
+
+Line 278:
+Text:   |She say, ""Charity voice bin dey powerful bicos she bin dey tok from her life experience. Best male act - Central Cee|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=117, Pidgin=0, Unlabeled=0
+
+Line 279:
+Text:   |Dem go drop dia guns, kon get place wey dem and dia family fit stay witout condition.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=85, Pidgin=0, Unlabeled=0
+
+Line 280:
+Text:   |However, her involvement bin cause tok-tok sake of di questions wey surround her citizenship and eligibility, wey lead to her withdrawal from di pageant.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=153, Pidgin=0, Unlabeled=0
+
+Line 281:
+Text:   |When he, in his wisdom saw fit to place wings on my feet and make me fly upon the deserted beach away from your flaming cutlass of wrath, it was not, be assured, my life upon which he set such value. Happy birthday to Sowore.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=36, Pidgin=189, Unlabeled=0
+
+Line 282:
+Text:   |Inside this comprehensive ebook filled with over 150 untapped business ideas, our team of professionals shares their practical experiences to help ...|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=150, Unlabeled=0
+
+Line 283:
+Text:   |Note that from March and April the Naira will begin it's slide, food inflation will begin to skyrocket.People should brace for impact. Na dem own wife dey take body knack de wall for ground.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=190, Unlabeled=0
+
+Line 284:
+Text:   |- ...|
+Labels: |PPPPP|
+Stats:   English=0, Pidgin=5, Unlabeled=0
+
+Line 285:
+Text:   |Idowu, her mind is like a water under a soft breeze. I dey like person wey die young|
+Labels: |PEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=83, Pidgin=1, Unlabeled=0
+
+Line 286:
+Text:   |Both teams, Asante Kotoko and Nsoatreman, don condemn di kasala.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=64, Pidgin=0, Unlabeled=0
+
+Line 287:
+Text:   |20GB now na 7,500 from di 5,500 wey e be bifor. I got no co-operation at all From the blacksmith.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=97, Pidgin=0, Unlabeled=0
+
+Line 288:
+Text:   |Afta di six hours wia di minister sit bifor di committee to answer questions, di ranking member don tok say make di minister no deny am protocol allocation for di military. Calls to her phone went unanswered, and soon, panic set in.Desperate, her family reported her missing at the Oyun Police Station in Kwara State.Using her phone records, police traced her last known contactto Abdulrahman Mubarak Balogun.At first, he denied even knowing her.But when authorities insisted on searching his apartment, his story changed.He now claimed Yetunde had suffered an asthma attack and died.The police werenTMt convinced.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPP|
+Stats:   English=337, Pidgin=277, Unlabeled=0
+
+Line 289:
+Text:   |Di city don also become safe place for pipo wey dey run from di fight-fight between M23 fighters and di army wey start again for late 2021  as di population don increase to around two million. As they passed us, I waved at my mom, but because she wore dark shades, I would never know if she saw me.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=298, Unlabeled=0
+
+Line 290:
+Text:   |government statement says Israeli tourists could be kidnapped by proPalestinian militants No new reason for fear don show|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPP|
+Stats:   English=71, Pidgin=50, Unlabeled=0
+
+Line 291:
+Text:   |If its got gam-gbam dim-dim that shakes the very air I breathe, I dey grab, Jesuss General said.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=53, Pidgin=43, Unlabeled=0
+
+Line 292:
+Text:   |Siddon wetin?|
+Labels: |EEEEEEEEEEEEE|
+Stats:   English=13, Pidgin=0, Unlabeled=0
+
+Line 293:
+Text:   |Yes na wetin Compeyson wife talk -  once since shed met him|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=59, Pidgin=0, Unlabeled=0
+
+Line 294:
+Text:   |Na later Celtic manage score one goal afta Daizen Maeda deft header for di 79th minute.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=53, Pidgin=34, Unlabeled=0
+
+Line 295:
+Text:   |Goal of di Year - Mabululu (Angola) Gabon|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=41, Unlabeled=0
+
+Line 296:
+Text:   |So Young, RIP lad|
+Labels: |PPPPPPPPPPPPPPPPP|
+Stats:   English=0, Pidgin=17, Unlabeled=0
+
+Line 297:
+Text:   |death brings the number of people in Vietnam killed by the virus to 50 out of 105 total human infections Them fear North pass God sef.Someone who faced President + Vice President + Senate President + Party Chairman + CBN Governor COMBINED  and flogged them is a military genius.African Union.|
+Labels: |PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=209, Pidgin=83, Unlabeled=0
+
+Line 298:
+Text:   |SHALLIPOPI  CAST (FT.|
+Labels: |EEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=21, Pidgin=0, Unlabeled=0
+
+Line 299:
+Text:   |She ask am wia e bin dey|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=24, Pidgin=0, Unlabeled=0
+
+Line 300:
+Text:   |Sake of since di auditor no fit to open di documents, pipo fit submit incomplete documents or odas go stuff di envelope and present to di AG office. One may Wonder what is US benefiting from all these and why Africa can't have good leaders|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=239, Pidgin=0, Unlabeled=0
+
+Line 301:
+Text:   |Where is the toilet?|
+Labels: |EEEEEEEEEEEEEEEEEEEE|
+Stats:   English=20, Pidgin=0, Unlabeled=0
+
+Line 302:
+Text:   |How do you respond?|
+Labels: |EEEEEEEEEEEEEEEEEEE|
+Stats:   English=19, Pidgin=0, Unlabeled=0
+
+Line 303:
+Text:   |She requested an official statement to clarify the US position.In addition, she raised concerns about the future of Nigerian students in the US and the uncertainty surrounding USAID programs, stressing the need for continued bilateral cooperation.US Response and Trade RelationsIn response, Ambassador Mills reassured the minister that the Drop Box Visa System had not been suspended but was under review.Regarding deportations, he clarified that individuals being repatriated would be returned to Lagos, with priority given to those convicted of crimes or violating immigration laws.On trade relations, the US envoy highlighted the upcoming expiration of the African Growth and Opportunity Act (AGOA) in September and encouraged Nigeria to push for its renewal.He reaffirmed the United States' commitment to strengthening diplomatic and economic ties with Nigeria.Crackdown on Illegal ImmigrationThe United States Immigration and Customs Enforcement (ICE) identified 3,690 Nigerians among nearly two million non-citizens slated for deportation under President Donald TrumpTMs administrationTMs immigration policies.The Federal Government continues to engage with US authorities to ensure that deportation processes align with international standards and that Nigerian nationals are treated fairly.The Bureau Newspaper|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|
+Stats:   English=1071, Pidgin=247, Unlabeled=0
+
+Line 304:
+Text:   |Does he believe these failures are acceptable or justified? Di ministry of health bin dey educate pipo since last year ova di illness.|
+Labels: |EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE_|
+Stats:   English=133, Pidgin=0, Unlabeled=1
+
+Line 305:
+Text:   |According to TIB, after completing the 10km race, Sowore and his crew were confronted by individuals who claimed their canopy was reserved for government dignitaries.|
+Labels: |_________ __ ____ _____ __________ ___ ____ _____ ______ ___ ___ ____ ____ __________ __ ___________ ___ _______ _____ ______ ___ ________ ___ __________ ____________|
+Stats:   English=0, Pidgin=0, Unlabeled=166
+
+Line 306:
+Text:   |Verde became a member of the WTO in July 2008|
+Labels: |_____ ______ _ ______ __ ___ ___ __ ____ ____|
+Stats:   English=0, Pidgin=0, Unlabeled=45
+
+Line 307:
+Text:   |Colman Domingo (Sing Sing)|
+Labels: |______ _______ _____ _____|
+Stats:   English=0, Pidgin=0, Unlabeled=26
+
+Line 308:
+Text:   |At last the prodigious passions of that extraordinary day seemed at an end.|
+Labels: |__ ____ ___ __________ ________ __ ____ _____________ ___ ______ __ __ ____|
+Stats:   English=0, Pidgin=0, Unlabeled=75
+
+Line 309:
+Text:   |Chancellor Angela Merkel took part in commemorations at the Tomb of Poland s Unknown Soldier|
+Labels: |__________ ______ ______ ____ ____ __ ______________ __ ___ ____ __ ______ _ _______ _______|
+Stats:   English=0, Pidgin=0, Unlabeled=92
+

@@ -1,0 +1,65 @@
+# test_config.yaml
+# -------------------------------------------------------------------
+# A dedicated config for running tests so existing models/results are not overwritten.
+
+paths:
+  data_dir: "data"
+  models_dir: "models_test"         # separate test directory for new model artifacts
+  outputs_dir: "outputs_test"
+  logs_dir: "logs_test"
+
+data:
+  english_corpus: "data/corpus/english.txt"
+  pidgin_corpus: "data/corpus/pidgin.txt"
+  mixed_corpus: "data/corpus/mixed.txt"
+  
+  # Ground truths
+  ground_truth_ml: "data/corpus/ground_truth/ml_ground_truth.txt"
+  ground_truth_tawa: "data/corpus/ground_truth/tawa_ground_truth.txt"
+
+  # Test inputs
+  test_ml: "data/test/ml_test.txt"
+  test_ppm: "data/test/ppm_test.txt"
+
+ppm:
+  tawa_models_dir: "models_test/ppm"  # store Tawa .model files here
+  # Absolute paths for Tawa commands (adjust if necessary)
+  train_cmd: "/c/Users/ogbonda/Documents/Tawa-1.0.2/Tawa-1.0/apps/train/train"
+  markup_cmd: "/c/Users/ogbonda/Documents/Tawa-1.0.2/Tawa-1.0/apps/transform/markup"
+  languages:
+    - name: "English"
+      model_prefix: "english"
+    - name: "Pidgin"
+      model_prefix: "pidgin"
+  training:
+    # Using fewer orders than production to speed up tests
+    orders: [2, 3, 4, 5]
+    params:
+      memory: 1000000
+      alpha: 256
+      exclusion: "D"
+
+ml:
+  validation_split: 0.1
+  sample_rate: 3
+  fast_mode: false
+  super_fast: false
+  window_size: 5
+  # Speeded-up training for testing
+  batch_size: 16
+  epochs: 2
+  patience: 1
+  embedding_dim: 32
+  lstm_units: 64
+
+evaluation:
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1_score
+  save_detailed_results: true
+  compare_models: true
+
+visualization:
+  enabled: false

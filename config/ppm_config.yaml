@@ -1,0 +1,31 @@
+# PPM Model Configuration
+
+ppm:
+  # Absolute paths for Tawa toolkit commands (adjust if needed)
+  train_cmd: "/mnt/c/Users/ogbonda/Documents/Tawa-1.0.2/Tawa-1.0/apps/train/train"
+  markup_cmd: "/mnt/c/Users/ogbonda/Documents/Tawa-1.0.2/Tawa-1.0/apps/transform/markup"
+
+  training:
+    orders: [2, 3, 4, 5, 6, 7, 8]  # PPM orders to train
+    exclusion_size: 256             # Exclusion size for PPM model
+    max_file_size: 10000000         # Maximum file size to process in bytes
+    params:
+      memory: 1000000
+      alpha: 256
+      exclusion: "D"
+
+  models:
+    output_dir: "models/ppm/model_files"
+    tawa_models_dir: "models/ppm/tawa_models"
+
+  languages:
+    - name: "english"
+      model_prefix: "english"
+      training_file: "data/corpus/english.txt"
+    - name: "pidgin"
+      model_prefix: "pidgin"
+      training_file: "data/corpus/pidgin.txt"
+
+  prediction:
+    min_context: 5    # Minimum context size for prediction
+    chunk_size: 500   # Chunk size for processing text

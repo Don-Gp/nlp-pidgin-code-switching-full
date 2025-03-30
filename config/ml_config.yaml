@@ -1,0 +1,67 @@
+# ML Model Configuration
+
+# Data paths
+data:
+  train_corpus: "data/corpus/mixed.txt"
+  english_corpus: "data/corpus/english.txt"
+  pidgin_corpus: "data/corpus/pidgin.txt"
+  test_data: "data/test/ml_test.txt"
+  ground_truth: "data/corpus/ground_truth/ml_ground_truth.txt"
+
+# Model parameters
+model:
+  # Character n-gram models
+  char_ngram:
+    n_values: [1, 2, 3, 4, 5, 6, 7, 8]
+    vectorizer_params:
+      max_features: 10000
+      analyzer: "char"
+      lowercase: true
+
+    # SVM parameters
+    svm:
+      C: 1.0
+      kernel: "linear"
+      class_weight: "balanced"
+
+    # Random Forest parameters
+    random_forest:
+      n_estimators: 100
+      max_depth: 10
+      class_weight: "balanced"
+
+    # Logistic Regression parameters
+    logistic_regression:
+      C: 1.0
+      max_iter: 1000
+      class_weight: "balanced"
+
+    # Naive Bayes parameters
+    naive_bayes:
+      alpha: 1.0
+
+  # Word-level models
+  word_level:
+    vectorizer_params:
+      max_features: 5000
+      analyzer: "word"
+      lowercase: true
+
+    # Same model parameters as above
+
+  # BiLSTM model
+  bilstm:
+    embedding_dim: 100
+    hidden_dim: 128
+    num_layers: 2
+    dropout: 0.2
+    batch_size: 32
+    epochs: 10
+    learning_rate: 0.001
+
+# Evaluation parameters
+evaluation:
+  metrics: ["accuracy", "precision", "recall", "f1_score"]
+  confusion_matrix: true
+  character_level_comparison: true
+  output_dir: "outputs/evaluation"

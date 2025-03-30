@@ -1,0 +1,34 @@
+# Evaluation Configuration
+
+# General settings
+general:
+  output_dir: "outputs/evaluation"
+  results_dir: "results_summary"
+  visualizations_dir: "outputs/visualizations/ml_model_training"
+  timestamp_format: "%Y%m%d_%H%M%S"
+
+# Ground truth settings
+ground_truth:
+  ml_file: "data/corpus/ground_truth/ml_ground_truth.txt"
+  tawa_file: "data/corpus/ground_truth/tawa_ground_truth.txt"
+
+# Metrics to calculate
+metrics:
+  - accuracy
+  - precision
+  - recall
+  - f1_score
+  - confusion_matrix
+
+# Visualization settings
+visualization:
+  plot_confusion_matrix: true
+  plot_metrics: true
+  plot_language_distribution: true
+  plot_language_comparison: true
+
+# Character-level evaluation
+character_level:
+  enable: true
+  output_dir: "outputs/evaluation/character_labels"
+  preserve_whitespace: false
