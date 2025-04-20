@@ -41,3 +41,17 @@ ENV/
 *.model
 temp/
 trash/
+
+# Private corpora (raw text)
+data/corpus/*.txt
+!data/corpus/ground_truth/
+
+# Build artifacts and model files
+models_test/
+outputs_test/
+outputs/
+
+# Editor & env files
+.venv/
+__pycache__/
+*.swp

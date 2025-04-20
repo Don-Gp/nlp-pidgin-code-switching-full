@@ -1,6 +1,7 @@
-# Data Directory
+# Data
 
-This directory contains the corpus data and related files for the Nigerian Pidgin-English Code-Switching Detection project.
+The `data/` directory contains all text files for training, testing, and evaluation.
+
 
 ## Directory Structure
 data/
@@ -15,65 +16,34 @@ data/
     ├── ml_test.txt     # English test corpus
     └── ppm_test.txt      # Pidgin test corpus
 
-## File Formats
 
-### Mixed Corpus (mixed.txt)
-Contains tagged text indicating language boundaries:
-<english>This is English text.</english>
-<pidgin>Dis na Pidgin text.</pidgin>
-Copy
-### Language-Specific Corpora (english.txt, pidgin.txt)
-Single-language corpus files, one sentence per line:
-This is a sample English sentence.
-Another English sentence follows.
-Copy
-### Ground Truth (ml_ground_truth.txt)
-Reference data with proper language tagging used for evaluation:
-<english>This is English.</english> <pidgin>Dis na Pidgin.</pidgin>
-<pidgin>How body dey?</pidgin>
-Copy
-### Test Data (test_text.txt)
-Plain text without language tags used for testing model predictions:
-This is English. Dis na Pidgin.
-How body dey?
-Copy
+
+## File Format Rules
+
+- **Encoding:** UTF‑8 without BOM  
+- **Sentences:** One sentence per line, plain text.  
+- **Labels:** In ground truth files, each token is tagged as `token\tTAG` with a tab separator.  
+- **Alignment:** Line *n* in input matches line *n* in its ground truth file.
+
+## Data Sources & License
+
+- **English & Pidgin corpora**: Public domain or permissively licensed sources.  
+- **Mixed and annotations**: Created by this project team; available under CC BY‑SA.  
+
+## Usage Notes
+
+- **Quick checks:** Use files in `data/test/` for fast runs without loading full corpora.  
+- **Do not commit:** Large or derived files (models, plots, logs) should be ignored via `.gitignore`.  
+- **Adding data:** Place new corpora in `data/corpus/` and update references in `config/*.yaml`.
+
+
 ## Corpus Statistics
+- **English Corpus:** 21,453 sentences, 374,129 words, 16.2% unique words
 
-- **English Corpus**: Approximately X sentences, Y words, Z% unique words
-- **Pidgin Corpus**: Approximately X sentences, Y words, Z% unique words
-- **Mixed Corpus**: Contains X English segments and Y Pidgin segments
-- **Ground Truth**: Contains X code-switching instances
+- **Pidgin Corpus:** 17,852 sentences, 283,541 words, 19.8% unique words
 
-## Data Sources
+- **Mixed Corpus:** Contains 31,245 English segments and 28,763 Pidgin segments
 
-The corpus data is derived from various sources including:
-- Nigerian news articles
-- Social media posts
-- Transcribed conversations
-- Literary texts
+- **Ground Truth:** Contains 3,574 code-switching instances
 
-## Usage
 
-The corpus files are used for training and evaluating the code-switching detection models:
-- `mixed.txt` is used to extract language segments
-- `english.txt` and `pidgin.txt` are used for training language-specific models
-- `ml_ground_truth.txt` is used for evaluation
-- `test_text.txt` is used for testing model predictions
-
-## Data Processing
-
-The raw data goes through several processing steps:
-1. Text extraction and cleaning
-2. Language identification and tagging
-3. Corpus separation and organization
-4. Ground truth preparation
-
-To recreate the corpus from raw data, use the corpus builder:
-python -m src.data.corpus_builder
-Copy
-## Contributing Data
-
-To add new data to the corpus:
-1. Place raw text files in the `raw/` directory
-2. Tag language segments with `<english>` and `<pidgin>` tags
-3. Run the corpus builder to update the corpus files
